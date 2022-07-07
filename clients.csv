@@ -1,0 +1,977 @@
+ClientID,Date Created,Gender,Race,Address 1 County,Address 1 State,Address 1 Postal Code
+1,6/30/2022 14:59,Male,White,,KY,40165
+2,6/30/2022 18:15,Female,White,Bullitt County,KY,40165
+3,6/10/2022 13:11,Female,Black/African American,Jefferson County,KY,40299
+4,6/8/2022 15:24,Male,White,Jefferson County,KY,40213
+5,6/20/2022 20:14,Female,White,Jefferson County,KY,40220
+6,6/28/2022 13:05,Female,Black/African American,Jefferson County,KY,40210
+7,8/27/2021 19:32,Female,Black/African American,Jefferson County,KY,40207
+8,5/26/2022 19:41,Male,White,Fayette County,KY,
+9,6/29/2022 12:26,Undisclosed,Undisclosed,Jefferson County,KY,40202
+10,6/16/2022 17:19,Female,Undisclosed,Bullitt County,KY,40165
+11,6/30/2022 20:40,Undisclosed,Undisclosed,Jefferson County,KY,40210
+12,6/30/2022 20:37,Undisclosed,Undisclosed,Nelson County,KY,40004
+13,6/30/2022 20:35,Undisclosed,Undisclosed,Jefferson County,KY,40211
+14,6/30/2022 20:33,Undisclosed,Undisclosed,Jefferson County,KY,40211
+15,6/30/2022 20:26,Undisclosed,Undisclosed,Jefferson County,KY,40211
+16,6/7/2022 0:20,Undisclosed,Undisclosed,Jefferson County,KY,40213
+17,6/30/2022 20:23,Undisclosed,Undisclosed,Jefferson County,KY,40210
+18,6/30/2022 20:23,Undisclosed,Undisclosed,Jefferson County,KY,40272
+19,6/30/2022 16:48,Female,Black/African American,Jefferson County,KY,40203
+20,6/30/2022 20:19,Undisclosed,Undisclosed,Jefferson County,KY,40216
+21,6/30/2022 20:15,Undisclosed,Undisclosed,Jefferson County,KY,40214
+22,6/30/2022 20:12,Undisclosed,Undisclosed,Jefferson County,KY,40258
+23,6/30/2022 20:09,Undisclosed,Undisclosed,Jefferson County,KY,40272
+24,6/30/2022 20:05,Male,Undisclosed,Clark County,KY,40391
+25,6/30/2022 20:05,Undisclosed,Undisclosed,Jefferson County,KY,40214
+26,4/28/2022 20:07,Female,Undisclosed,Rowan County,KY,40351
+27,6/30/2022 19:22,Undisclosed,Undisclosed,Jefferson County,,40219
+28,6/30/2022 19:18,Undisclosed,Undisclosed,,,
+29,6/24/2022 17:32,Male,American Indian or Alaska Native,Floyd County,IN,47150
+30,6/29/2022 18:52,Male,White,Floyd County,IN,47150
+31,5/25/2022 21:47,Female,Black/African American,Jefferson County,,40212
+32,6/24/2022 14:32,Male,White,Clark County,IN,47172
+33,6/30/2022 18:56,Undisclosed,Undisclosed,Jefferson County,,40214
+36,6/14/2022 13:05,Undisclosed,Undisclosed,Jefferson County,KY,40211
+37,6/30/2022 16:59,Undisclosed,Undisclosed,,,
+38,4/29/2022 8:09,Male,Black/African American,Jefferson County,KY,40211
+39,6/30/2022 17:48,Female,White,Jefferson County,KY,40223
+40,6/30/2022 17:36,Female,Black/African American,Jefferson County,KY,40203
+41,6/30/2022 17:29,Undisclosed,Undisclosed,Jefferson County,,40219
+42,6/16/2022 15:29,Female,Black/African American,Jefferson County,,40216
+43,6/29/2022 18:38,Female,White,Shelby County,KY,40057
+44,6/29/2022 19:27,Female,Black/African American,Jefferson County,KY,40202
+45,6/29/2022 13:29,Female,White,Jefferson County,KY,40223
+46,6/29/2021 23:43,Female,White,Jefferson County,KY,40219
+48,6/20/2022 19:33,Male,Black/African American,Jefferson County,KY,40206
+49,6/30/2022 13:19,Male,White,Jefferson County,KY,40207
+50,6/16/2022 17:52,Male,Other Race,Jefferson County,KY,40228
+51,6/28/2022 17:52,Male,Black/African American,Jefferson County,KY,40218
+52,6/13/2022 14:38,Male,White,Jefferson County,KY,40219
+53,6/10/2022 13:36,Female,Black/African American,Jefferson County,KY,40211
+54,6/23/2022 14:09,Female,White,Jefferson County,KY,40218-5250
+55,6/16/2022 15:19,Female,White,Jefferson County,KY,40242
+56,5/6/2022 14:21,Male,Black/African American,Jefferson County,KY,40214
+57,5/26/2022 15:53,Female,Black/African American,Floyd County,IN,47150
+59,6/20/2022 14:11,Male,White,Jefferson County,KY,40218
+60,10/20/2021 15:02,Male,Black/African American,Jefferson County,,40203
+61,6/20/2022 15:33,Female,Black/African American,Jefferson County,KY,40223
+63,6/30/2022 16:23,Female,White,Floyd County,IN,47150
+64,6/30/2022 16:09,Female,Black/African American,Jefferson County,KY,40216
+65,6/15/2022 21:47,Male,Other Race,Jefferson County,KY,40220
+66,4/21/2022 14:24,Male,Other Race,Jefferson County,KY,40213
+67,6/15/2022 18:57,Female,Black/African American,Jefferson County,KY,40219
+68,5/6/2022 20:30,Male,White,Bullitt County,KY,40165
+69,6/15/2022 17:54,Female,White,Jefferson County,KY,40214
+70,6/15/2022 16:08,Male,White,Jefferson County,KY,40258
+71,5/10/2022 12:57,Male,Other Race,Clark County,IN,47130
+72,6/30/2022 15:27,Female,White,Bourbon County,KY,40348
+73,6/29/2022 16:15,Undisclosed,Undisclosed,,,
+74,6/30/2022 15:55,Undisclosed,Undisclosed,,,
+76,6/15/2022 15:01,Female,Black/African American,Breckinridge County,KY,40143
+78,6/10/2022 14:16,Female,White,Jefferson County,KY,40229
+79,2/17/2022 14:11,Female,White,Jefferson County,KY,40210
+80,5/13/2020 17:55,Undisclosed,Undisclosed,Jefferson County,,40229
+81,6/30/2022 13:46,Female,Undisclosed,Jefferson County,KY,40229
+82,6/30/2022 15:14,Undisclosed,Undisclosed,Jefferson County,,40218
+83,6/16/2022 13:07,Non-Binary,White,Clark County,IN,47130
+85,,,,,,
+86,6/28/2022 14:54,Female,Undisclosed,Jefferson County,KY,40219
+87,6/27/2022 18:10,Male,White,Jefferson County,KY,40220
+88,6/29/2022 18:04,Female,White,Henderson County,KY,42420
+89,6/29/2022 16:38,Male,White,Jefferson County,KY,40291
+90,6/29/2022 20:04,Male,Black/African American,Jefferson County,KY,40202
+91,6/30/2022 14:03,Undisclosed,Undisclosed,Hardin County,KY,42701
+92,6/29/2022 16:31,Female,Black/African American,Jefferson County,KY,40215
+93,6/29/2022 16:37,Female,White,Madison County,KY,40475
+95,6/20/2022 20:11,Undisclosed,Undisclosed,Jefferson County,KY,40211
+96,4/6/2022 13:09,Female,Black/African American,Jefferson County,KY,40216
+98,6/29/2022 16:05,Male,White,Madison County,KY,40475
+99,6/29/2022 3:11,Female,Undisclosed,Kenton County,KY,41015
+100,6/30/2022 14:16,Undisclosed,Undisclosed,Jefferson County,,40291
+102,4/29/2022 16:07,Male,Undisclosed,Caldwell County,KY,42445
+104,6/29/2022 13:27,Undisclosed,Undisclosed,Jefferson County,,40211
+105,6/29/2022 13:33,Male,Black/African American,Jefferson County,KY,
+106,6/16/2022 18:21,Undisclosed,Undisclosed,,,40272
+107,6/30/2022 13:58,Male,Other Race,Jefferson County,KY,40214
+108,6/27/2022 17:07,Undisclosed,Undisclosed,Jefferson County,,40204
+109,6/23/2022 16:46,Undisclosed,Undisclosed,Jefferson County,,40211
+110,6/15/2022 16:50,Undisclosed,Undisclosed,Jefferson County,,40219
+111,6/13/2022 14:28,Female,White,Floyd County,IN,47150
+113,6/15/2022 17:08,Undisclosed,Undisclosed,Jefferson County,KY,40216
+114,4/27/2022 16:45,Male,Black/African American,Jefferson County,KY,40203
+115,6/29/2021 21:57,Undisclosed,Black/African American,Jefferson County,KY,40213
+116,6/21/2022 17:36,Undisclosed,Undisclosed,Jefferson County,,40299
+117,3/24/2022 14:54,Male,Black/African American,Jefferson County,KY,40212
+118,6/30/2022 12:52,Undisclosed,Undisclosed,Jefferson County,KY,40211
+119,6/27/2022 16:52,Male,Undisclosed,,KY,40210
+120,6/24/2022 16:19,Undisclosed,Undisclosed,Boone County,,41005
+121,4/29/2022 8:27,Male,Black/African American,Jefferson County,KY,40210
+122,3/29/2022 17:14,Male,Black/African American,Jefferson County,KY,40214
+123,6/15/2022 12:48,Male,Undisclosed,Jefferson County,KY,40216
+124,3/24/2022 15:46,Male,Black/African American,Jefferson County,KY,40210
+125,6/6/2022 15:00,Male,Black/African American,Jefferson County,KY,40203
+126,6/27/2022 16:03,Female,Black/African American,Jefferson County,KY,40208
+127,6/30/2022 12:08,Female,White,Floyd County,IN,47150
+128,6/30/2022 12:06,Female,Other Race,Clark County,IN,47129
+129,6/30/2022 12:04,Male,White,Harrison County,IN,47112
+130,6/30/2022 11:08,Male,Black/African American,Jefferson County,KY,40203
+131,5/27/2022 18:33,Female,White,Jefferson County,KY,40212-2927
+132,6/29/2022 19:56,Female,Black/African American,Floyd County,IN,47150
+133,6/29/2022 19:14,Female,Black/African American,Jefferson County,KY,40210
+134,6/29/2022 19:55,Male,Black/African American,Jefferson County,KY,40272
+135,6/29/2022 19:53,Female,Black/African American,Jefferson County,KY,40272
+136,6/28/2022 13:50,Female,White,Jefferson County,KY,40215
+137,6/29/2022 19:50,Male,Black/African American,Jefferson County,KY,40220
+139,6/29/2022 19:45,Female,Black/African American,Jefferson County,KY,40208
+140,6/8/2022 16:53,Male,Black/African American,Jefferson County,KY,
+141,6/22/2021 15:45,Male,Black/African American,Jefferson County,HI,40206
+142,6/29/2022 19:43,Female,Black/African American,Jefferson County,KY,40218
+143,6/29/2022 19:38,Undisclosed,Undisclosed,Jefferson County,,40211
+144,5/19/2022 13:41,Female,Black/African American,,KY,40219
+145,6/27/2022 17:51,Male,Black/African American,Jefferson County,KY,40242
+146,6/25/2022 16:26,Female,Black/African American,Jefferson County,KY,40023
+147,,,,,,
+149,6/29/2022 18:44,Male,Black/African American,Jefferson County,KY,40203
+150,6/23/2022 14:33,Female,White,Jefferson County,KY,40291
+151,6/15/2022 18:01,Female,Black/African American,Fayette County,KY,40517
+156,5/17/2021 15:49,Female,Black/African American,Jefferson County,KY,40218
+158,6/29/2022 13:07,Male,White,Jefferson County,KY,40211
+159,6/3/2022 17:41,Female,Black/African American,Jefferson County,KY,40218
+160,3/24/2022 14:55,Female,Black/African American,Jefferson County,KY,40201
+161,6/23/2022 17:44,Female,Black/African American,Jefferson County,KY,40211
+162,6/9/2022 17:22,Male,Black/African American,Jefferson County,KY,40203
+163,6/21/2022 17:54,Female,Black/African American,Jefferson County,KY,40210
+164,6/29/2022 16:39,Male,Black/African American,Jefferson County,KY,40214
+165,3/3/2020 19:36,Male,Black/African American,Jefferson County,KY,40203
+166,6/18/2022 13:55,Male,Black/African American,Jefferson County,KY,40212
+167,6/6/2022 18:09,Female,Black/African American,Jefferson County,KY,
+168,6/29/2022 15:54,Male,White,Jefferson County,KY,40216
+169,6/13/2022 13:45,Female,Black/African American,Jefferson County,KY,40218
+170,6/16/2022 12:45,Undisclosed,Undisclosed,,,
+171,6/17/2022 16:33,Undisclosed,Undisclosed,Jefferson County,KY,40211
+172,6/14/2022 18:27,Male,Black/African American,Jefferson County,KY,40210
+175,3/4/2021 21:19,Female,Other Race,Jefferson County,KY,40214
+176,8/27/2021 14:39,Female,Black/African American,Jefferson County,KY,40216
+177,5/6/2022 18:07,Female,White,Jefferson County,KY,40216
+178,6/23/2022 12:51,Female,Undisclosed,Jefferson County,KY,40216
+179,6/13/2022 16:05,Undisclosed,Undisclosed,,,
+180,6/23/2022 17:10,Male,Black/African American,,,
+182,4/20/2021 16:02,Undisclosed,Undisclosed,Jefferson County,,40203
+183,6/24/2022 14:20,Female,Black/African American,Jefferson County,KY,40213
+184,6/17/2022 15:35,Female,Undisclosed,Jefferson County,KY,40214
+185,6/24/2022 19:00,Male,Black/African American,Jefferson County,KY,40204
+186,6/29/2022 13:47,Female,White,Jefferson County,KY,40220
+187,6/24/2022 20:19,Female,Black/African American,Jefferson County,KY,40212
+188,5/19/2022 15:21,Female,Black/African American,Jefferson County,KY,40203
+189,6/24/2022 22:57,Female,White,Jefferson County,KY,40206
+190,6/26/2022 11:17,Female,Other Race,,,
+191,6/29/2022 13:49,Female,White,Oldham County,KY,40014
+193,6/24/2022 16:25,Undisclosed,Undisclosed,Jefferson County,KY,40245
+195,6/14/2022 19:08,Female,Other Race,Bullitt County,KY,40150
+196,6/28/2022 14:52,Undisclosed,Undisclosed,,,
+197,6/28/2022 16:21,Undisclosed,Undisclosed,Jefferson County,KY,40216
+199,4/13/2022 16:11,Undisclosed,Undisclosed,Jefferson County,KY,40212
+200,6/28/2022 18:28,Female,Undisclosed,Pendleton County,KY,41006
+201,6/14/2022 13:09,Female,Black/African American,Jefferson County,KY,40272
+202,6/21/2022 15:19,Undisclosed,Undisclosed,Jefferson County,KY,40211
+204,8/26/2021 19:52,Female,Black/African American,Jefferson County,KY,40212
+205,6/29/2022 13:25,Undisclosed,Undisclosed,Hardin County,,40160
+206,6/27/2022 12:27,Undisclosed,Undisclosed,,,
+207,6/24/2022 12:25,Female,Undisclosed,Jefferson County,KY,40218
+208,6/1/2022 19:20,Female,Undisclosed,Jefferson County,KY,40219
+209,6/21/2022 14:55,Undisclosed,Undisclosed,Jefferson County,,40207
+210,6/21/2022 17:47,Undisclosed,Undisclosed,Jefferson County,KY,40258
+211,6/21/2022 18:22,Undisclosed,Undisclosed,Jefferson County,,40212
+212,6/21/2022 18:25,Female,Undisclosed,Jefferson County,KY,40211
+213,6/21/2022 18:46,Undisclosed,Undisclosed,Jefferson County,KY,40228
+214,6/22/2022 13:59,Undisclosed,Undisclosed,Jefferson County,,40210
+215,6/23/2022 15:48,Undisclosed,Undisclosed,Jefferson County,,40203
+216,6/23/2022 17:40,Undisclosed,Undisclosed,Jefferson County,KY,40203
+217,6/23/2022 18:15,Undisclosed,Undisclosed,Jefferson County,KY,40220
+218,6/23/2022 18:15,Female,Undisclosed,Jefferson County,KY,40220
+219,6/24/2022 14:36,Undisclosed,Undisclosed,,,40211
+220,6/24/2022 18:47,Undisclosed,Undisclosed,Jefferson County,KY,40216
+221,6/27/2022 13:29,Female,Undisclosed,Jefferson County,KY,40272
+222,6/27/2022 20:05,Undisclosed,Undisclosed,Jefferson County,KY,40215
+223,6/27/2022 20:06,Undisclosed,Undisclosed,Jefferson County,KY,40211
+224,6/28/2022 13:28,Undisclosed,Undisclosed,Jefferson County,KY,40210
+225,6/28/2022 16:50,Undisclosed,Undisclosed,Jefferson County,,40208
+226,6/28/2022 17:28,Undisclosed,Undisclosed,Jefferson County,,40213
+227,6/28/2022 20:25,Undisclosed,Undisclosed,Jefferson County,KY,40203
+228,6/28/2022 20:26,Undisclosed,Undisclosed,Jefferson County,KY,40291
+229,6/28/2022 20:29,Undisclosed,Undisclosed,Jefferson County,KY,40222
+230,4/25/2022 12:40,Female,Black/African American,Harrison County,IN,47112
+231,6/29/2022 12:07,Female,White,Harrison County,IN,47112
+232,4/13/2022 19:40,Female,Undisclosed,Harrison County,KY,41031
+233,6/27/2022 16:32,Undisclosed,Undisclosed,Grant County,KY,41030
+234,4/27/2022 20:37,Female,Black/African American,Fulton County,KY,42041
+235,7/28/2021 19:21,Female,White,Bullitt County,KY,40047
+236,6/28/2022 18:17,Female,Undisclosed,Shelby County,KY,40067
+237,6/10/2022 15:37,Female,White,Jefferson County,KY,40258
+238,6/28/2022 14:34,Female,Black/African American,Jefferson County,KY,40211
+239,6/24/2022 16:54,Female,White,Oldham County,KY,40014
+241,6/24/2022 16:02,Female,White,Jefferson County,KY,40272
+245,6/13/2022 12:20,Female,Black/African American,Floyd County,IN,47150
+246,6/14/2022 18:47,Female,White,Floyd County,IN,47150
+247,1/19/2022 20:36,Female,Black/African American,Clark County,IN,47130
+251,6/8/2022 16:24,Female,White,Jefferson County,KY,40211
+252,6/22/2022 14:44,Female,Black/African American,Jefferson County,KY,40214
+253,1/26/2021 15:42,Female,Black/African American,Jefferson County,KY,40214
+254,6/7/2022 12:58,Female,White,Floyd County,IN,47150
+255,6/14/2022 15:17,Female,Black/African American,Jefferson County,KY,40212
+256,6/16/2022 15:12,Female,Black/African American,Jefferson County,KY,40291
+257,6/21/2022 13:08,Female,Black/African American,Clark County,IN,47130
+258,6/21/2022 20:34,Undisclosed,Undisclosed,Jefferson County,,40220
+259,5/12/2022 19:52,Male,White,Fayette County,KY,40511
+260,6/14/2022 15:46,Male,Other Race,Jefferson County,KY,40218
+261,6/8/2022 15:40,Male,White,Jefferson County,KY,40241
+263,6/14/2022 20:32,Male,Black/African American,Jefferson County,KY,40211
+264,6/24/2022 19:07,Undisclosed,Undisclosed,Jefferson County,KY,40211
+267,6/28/2022 14:27,Undisclosed,Undisclosed,Jefferson County,KY,40212
+268,6/1/2022 18:59,Male,Undisclosed,Floyd County,IN,47150
+269,6/28/2022 15:55,Female,Undisclosed,Floyd County,IN,47150
+270,6/28/2022 15:52,Female,Undisclosed,Clark County,IN,47129
+271,6/28/2022 15:43,Male,Undisclosed,Floyd County,IN,47150
+272,6/28/2022 15:40,Female,Undisclosed,Floyd County,IN,47150
+273,6/28/2022 15:37,Female,Undisclosed,Clark County,IN,47130
+274,6/27/2022 17:17,Male,Undisclosed,Daviess County,KY,42355
+275,6/28/2022 15:29,Undisclosed,Undisclosed,,,40211
+276,2/10/2022 16:05,Female,Undisclosed,Floyd County,IN,47150
+277,4/18/2022 19:31,Male,Black/African American,Jefferson County,KY,40204
+278,5/16/2022 15:22,Female,Black/African American,Clark County,IN,47130
+279,5/12/2022 18:41,Female,Black/African American,Clark County,IN,47150
+280,6/15/2022 17:29,Female,White,Clark County,IN,47130
+281,6/7/2022 12:51,Male,White,Clark County,IN,47129
+282,6/28/2022 14:45,Female,Black/African American,Jefferson County,KY,40219
+284,11/9/2021 14:27,Female,Other Race,Jefferson County,KY,40218
+285,6/28/2022 14:23,Male,White,Jefferson County,KY,40205
+287,5/21/2022 0:32,Female,Black/African American,Jefferson County,KY,40210
+289,6/2/2022 19:46,Male,Black/African American,Jefferson County,KY,40210
+290,6/1/2022 15:52,Female,White,Jefferson County,KY,40118
+291,6/28/2022 13:33,Female,Black/African American,Jefferson County,KY,40229
+292,6/27/2022 19:36,Undisclosed,Undisclosed,Jefferson County,KY,40291
+293,6/22/2022 15:14,Undisclosed,Undisclosed,Jefferson County,KY,40218
+294,6/24/2022 19:33,Female,White,Jefferson County,KY,40208
+295,6/16/2022 19:41,Female,White,Jefferson County,KY,40223
+296,6/6/2022 13:41,Male,Black/African American,Jefferson County,KY,40203
+299,6/28/2022 12:57,Female,White,Clark County,IN,47172
+300,6/22/2022 19:57,Undisclosed,Undisclosed,Jefferson County,,40223
+301,6/16/2022 14:53,Undisclosed,Undisclosed,Jefferson County,,40228
+302,6/17/2022 16:32,Undisclosed,Undisclosed,Jefferson County,,40216
+303,4/18/2022 19:29,Female,Black/African American,Jefferson County,KY,40210
+304,6/17/2022 16:19,Female,American Indian or Alaska Native,Jefferson County,KY,40212
+305,6/15/2022 16:12,Undisclosed,Undisclosed,Jefferson County,KY,40210
+308,6/14/2022 15:53,Female,White,Jefferson County,KY,40219
+309,7/12/2021 18:52,Female,Black/African American,Jefferson County,KY,40212
+310,8/6/2020 20:39,Female,Black/African American,Jefferson County,KY,40211
+311,5/24/2022 16:23,Female,Black/African American,Jefferson County,KY,40211
+312,6/8/2022 15:52,Male,Black/African American,Jefferson County,KY,40203
+313,6/8/2022 14:04,Female,White,Jefferson County,KY,40203
+316,6/6/2022 16:01,Female,Black/African American,Jefferson County,KY,40223
+317,6/1/2022 18:10,Female,White,Harrison County,IN,47112
+319,,,,,,
+321,6/16/2022 14:38,Female,White,Floyd County,IN,47150
+322,6/27/2022 19:55,Female,Undisclosed,Floyd County,IN,47150
+323,6/27/2022 19:51,Female,Undisclosed,Harrison County,IN,47112
+324,6/27/2022 19:43,Female,Undisclosed,Floyd County,IN,47150
+325,6/27/2022 19:34,Male,Undisclosed,Floyd County,IN,47150
+326,6/27/2022 19:33,Female,Undisclosed,Clark County,IN,47130
+328,6/27/2022 19:12,Female,Undisclosed,Floyd County,IN,47150
+329,5/18/2022 15:13,Male,Black/African American,Jefferson County,KY,40202
+331,6/27/2022 18:55,Female,Undisclosed,Floyd County,IN,47150
+332,5/19/2022 18:46,Female,White,Grayson County,KY,42721
+334,6/23/2022 19:33,Female,Undisclosed,Floyd County,IN,47122
+335,6/10/2022 13:56,Female,White,Jefferson County,KY,40258-4108
+336,12/16/2021 20:21,Female,White,Shelby County,KY,40065
+337,4/5/2022 16:45,Male,Other Race,Jefferson County,KY,40214
+338,1/17/2022 21:05,Female,White,Grayson County,KY,42721
+339,6/13/2022 15:52,Female,Other Race,Marion County,KY,40033
+340,6/27/2022 18:36,Female,Undisclosed,Floyd County,IN,47150
+341,6/16/2022 19:57,Male,White,Clark County,IN,47130
+342,6/15/2021 17:33,Female,Black/African American,Jefferson County,KY,40218
+343,10/27/2021 17:48,Male,Black/African American,Jefferson County,KY,40211
+344,6/27/2022 17:16,Female,Undisclosed,Jefferson County,KY,40203
+346,6/23/2022 16:32,Undisclosed,Undisclosed,,,40272
+349,4/27/2022 19:33,Female,White,Jefferson County,KY,40213
+350,6/1/2022 16:03,Undisclosed,Undisclosed,Jefferson County,,40220
+351,6/14/2022 17:56,Undisclosed,Undisclosed,Jefferson County,,40216
+352,6/13/2022 18:03,Undisclosed,Undisclosed,,,40241
+353,6/10/2022 17:44,Undisclosed,White,Jefferson County,KY,40207
+354,5/23/2022 14:52,Male,Undisclosed,,,
+356,4/7/2022 20:06,Female,White,Jefferson County,KY,40213
+363,6/16/2022 15:38,Undisclosed,Undisclosed,Jefferson County,KY,40220
+364,6/6/2022 17:26,Undisclosed,Undisclosed,Jefferson County,,40210
+365,6/8/2022 15:03,Female,White,Madison County,KY,40403
+366,6/27/2022 12:50,Female,Black/African American,Jefferson County,KY,40219
+367,3/2/2021 15:37,Female,Other Race,Jefferson County,KY,40203
+368,6/16/2022 12:40,Undisclosed,Undisclosed,Jefferson County,,40216
+369,6/27/2022 14:36,Female,Black/African American,Floyd County,IN,47150
+371,,,,,,
+373,3/18/2022 19:39,Male,Black/African American,Jefferson County,KY,40211
+375,,,,,,
+377,4/7/2022 16:52,Male,Black/African American,Floyd County,IN,47150
+378,6/23/2022 13:42,Female,White,Jefferson County,KY,40203
+379,6/27/2022 12:44,Female,White,,,
+380,6/27/2022 12:43,Undisclosed,Undisclosed,Fayette County,KY,40504
+381,12/9/2021 19:31,Female,White,Bullitt County,KY,40047
+382,6/2/2022 18:50,Male,White,Jefferson County,KY,40207
+383,8/17/2021 15:37,Male,Black/African American,Jefferson County,KY,40215
+385,6/24/2022 21:13,Male,White,Floyd County,IN,47150
+386,6/22/2022 20:42,Undisclosed,Undisclosed,Jefferson County,KY,
+387,6/24/2022 19:15,Female,White,Pike County,KY,41501
+388,6/23/2022 19:06,Male,White,Barren County,KY,42131
+389,6/6/2022 19:20,Undisclosed,Undisclosed,Martin County,KY,41224
+390,6/6/2022 19:44,Undisclosed,Undisclosed,Martin County,KY,41224
+391,6/13/2022 12:12,Undisclosed,Undisclosed,Jefferson County,,40228
+393,6/24/2022 17:51,Female,Undisclosed,Clark County,IN,47130
+394,6/7/2022 13:44,Female,Black/African American,Jefferson County,KY,40206
+398,6/14/2022 22:12,Female,Undisclosed,Jefferson County,KY,40202
+399,6/17/2022 18:31,Female,Black/African American,,,
+402,3/1/2022 19:08,Female,Black/African American,Jefferson County,KY,40219
+403,6/15/2022 15:14,Female,Black/African American,Jefferson County,KY,40203
+405,2/16/2022 14:00,Male,Black/African American,Jefferson County,KY,40291
+406,6/24/2022 15:43,Female,Undisclosed,Jefferson County,KY,40207
+407,10/29/2021 15:53,Male,Black/African American,Jefferson County,KY,40211
+408,,,,,,
+409,6/22/2022 13:13,Male,White,Letcher County,KY,41858
+410,6/21/2022 14:38,Male,Undisclosed,Daviess County,KY,42301
+411,6/6/2022 18:54,Undisclosed,Undisclosed,Martin County,KY,41224
+413,6/23/2022 19:34,Female,White,Jefferson County,KY,40272
+414,6/17/2022 18:34,Undisclosed,Undisclosed,Henderson County,KY,42462
+415,6/17/2022 13:40,Male,Black/African American,Jefferson County,KY,40213
+416,6/16/2022 20:30,Male,Undisclosed,Fayette County,KY,40503
+417,6/9/2021 14:47,Male,White,Jefferson County,KY,40203
+418,6/16/2022 16:44,Male,Undisclosed,Todd County,KY,42234
+419,6/24/2022 15:29,Undisclosed,Undisclosed,Jefferson County,KY,40203
+420,6/17/2022 16:18,Female,White,Hopkins County,KY,42431
+421,9/16/2021 14:39,Male,White,Boone County,KY,41042
+422,6/23/2022 16:48,Undisclosed,Undisclosed,McCracken County,KY,42003
+425,10/13/2021 14:25,Undisclosed,Undisclosed,Jefferson County,KY,40215
+426,6/13/2022 16:30,Female,Black/African American,Floyd County,IN,47150
+427,5/18/2022 12:28,Female,Black/African American,Clark County,IN,47130
+428,6/6/2022 17:30,Female,White,Floyd County,IN,47150
+429,6/24/2022 12:06,Undisclosed,Undisclosed,Bullitt County,,40165
+430,6/23/2022 18:45,Male,Undisclosed,Jefferson County,KY,40205
+431,6/23/2022 18:30,Female,Undisclosed,Jefferson County,KY,40205
+432,6/23/2022 20:20,Male,Undisclosed,Spencer County,KY,40071
+433,6/23/2022 19:33,Male,White,Jefferson County,KY,40204
+434,6/23/2022 20:40,Female,White,Spencer County,KY,40071-9602
+435,6/7/2022 14:44,Female,Black/African American,,,
+436,6/8/2021 13:32,Female,Other Race,Clark County,IN,47130
+437,2/11/2022 15:41,Female,Undisclosed,,,
+438,6/20/2022 19:22,Female,Undisclosed,Daviess County,KY,42301
+439,6/21/2022 15:23,Female,Undisclosed,Bullitt County,KY,40229
+440,6/21/2022 17:15,Male,White,,KY,41553
+441,6/22/2022 14:08,Female,Black/African American,Christian County,KY,42240
+442,6/22/2022 18:19,Female,White,Livingston County,KY,42058
+443,6/21/2022 17:31,Undisclosed,Undisclosed,Jefferson County,,40203
+444,6/23/2022 19:48,Male,White,Floyd County,IN,47150
+445,6/22/2022 14:28,Undisclosed,Undisclosed,,,40241
+449,6/21/2022 17:22,Undisclosed,Undisclosed,Jefferson County,,40206
+450,6/17/2022 18:02,Undisclosed,Undisclosed,Jefferson County,,40207
+451,6/14/2022 15:25,Undisclosed,Undisclosed,Jefferson County,,40210
+452,8/26/2020 13:40,Undisclosed,Black/African American,Jefferson County,KY,40208
+453,6/16/2022 18:56,Female,Black/African American,Jefferson County,KY,40217
+455,5/24/2021 14:56,Female,Black/African American,Jefferson County,KY,40218
+458,6/21/2022 14:45,Male,Black/African American,McCreary County,,42647
+460,6/23/2022 17:42,Male,White,Bullitt County,KY,40165
+462,6/23/2022 18:06,Female,White,Clark County,IN,47163
+463,6/10/2022 16:56,Undisclosed,Undisclosed,Jefferson County,KY,40212
+467,6/16/2022 16:28,Female,White,Gallatin County,KY,41092
+468,6/17/2022 17:01,Female,Black/African American,Hardin County,KY,42701
+470,6/23/2022 17:13,Undisclosed,Undisclosed,Jefferson County,,40258
+472,4/27/2022 19:34,Female,White,McCreary County,KY,42647
+475,6/2/2022 14:35,Female,Undisclosed,Hamilton County,OH,45239
+476,6/9/2022 17:25,Male,Undisclosed,Jefferson County,KY,40213
+477,6/6/2022 21:08,Female,Other Race,Fayette County,KY,40515
+478,6/14/2022 14:50,Female,Other Race,Shelby County,KY,40003
+479,6/15/2022 20:15,Female,Black/African American,Jefferson County,KY,40210
+480,6/23/2022 16:04,Female,Other Race,Jefferson County,KY,40210
+481,5/20/2022 15:42,Undisclosed,Undisclosed,Ohio County,KY,42320
+484,10/5/2021 18:00,Male,Black/African American,Jefferson County,KY,40212
+486,6/15/2022 18:08,Male,White,Floyd County,KY,41635
+488,6/16/2022 14:50,Female,Undisclosed,Jefferson County,KY,40220
+492,5/31/2022 19:18,Female,White,Jefferson County,KY,40291
+493,,,,,,
+494,6/23/2022 14:48,Female,Other Race,Jefferson County,KY,40243
+495,6/13/2022 19:47,Female,White,Bullitt County,KY,40165
+496,6/23/2022 14:30,Undisclosed,Undisclosed,Jefferson County,,40215
+497,6/23/2022 14:16,Female,Undisclosed,Oldham County,KY,40056
+498,6/23/2022 13:04,Female,White,Floyd County,IN,47150
+499,6/22/2022 14:56,Male,Undisclosed,Oldham County,KY,40031
+500,3/23/2022 18:48,Female,White,Jefferson County,KY,40228
+501,6/22/2022 20:00,Female,Undisclosed,Jefferson County,KY,40023
+503,6/22/2022 19:46,Female,White,,KY,40220
+504,6/14/2022 16:34,Female,Undisclosed,Jefferson County,KY,40216
+506,4/1/2022 20:13,Undisclosed,Undisclosed,Jefferson County,KY,40210
+510,1/6/2022 19:27,Male,White,Jefferson County,KY,40218
+511,6/23/2022 12:22,Female,White,Clark County,IN,47129
+513,6/23/2022 12:18,Female,White,Clark County,IN,47172
+514,,,,,,
+515,,,,,,
+516,6/21/2022 19:30,Female,Asian,Floyd County,IN,47150
+517,,,,,,
+520,6/20/2022 19:02,Male,Undisclosed,Knox County,KY,40906
+521,5/26/2022 16:02,Male,Asian,Madison County,KY,40475
+523,1/11/2022 21:21,Undisclosed,Undisclosed,Jefferson County,KY,40216
+524,6/17/2022 15:02,Female,White,Daviess County,KY,42301
+525,9/21/2020 18:08,Male,White,Jefferson County,KY,40208
+526,6/22/2022 17:41,Undisclosed,Undisclosed,Jefferson County,KY,40220
+528,6/5/2022 19:06,Undisclosed,Undisclosed,Clark County,IN,47129
+530,6/13/2022 17:17,Undisclosed,Undisclosed,Jefferson County,KY,40214
+533,6/22/2022 15:04,Female,White,Whitley County,KY,40771
+534,1/14/2022 18:37,Female,Black/African American,Clark County,IN,47130
+535,6/22/2022 14:14,Male,White,,IN,47129
+536,6/17/2022 14:53,Female,White,Jefferson County,KY,40202
+537,6/22/2022 15:06,Male,Black/African American,Jefferson County,KY,40214
+538,6/20/2022 17:41,Female,Black/African American,Jefferson County,KY,40291
+539,5/5/2022 15:35,Female,White,Spencer County,KY,40071
+540,1/25/2022 18:45,Undisclosed,Undisclosed,Jefferson County,,40211
+541,4/25/2022 18:32,Male,Native Hawaiian or Pacific Islander,Spencer County,KY,40071
+542,5/5/2022 16:36,Female,White,Spencer County,KY,40071
+543,6/22/2022 13:49,Undisclosed,Undisclosed,Jefferson County,,40118
+544,6/21/2022 14:10,Male,White,Clark County,IN,47130
+545,6/2/2021 19:43,Female,White,Floyd County,IN,47150
+546,6/10/2022 15:51,Male,Black/African American,,,
+549,10/5/2021 11:32,Male,White,Jefferson County,KY,40210
+550,6/22/2022 0:54,Male,Other Race,Clark County,IN,47129
+551,3/15/2022 19:29,Female,Black/African American,Floyd County,IN,47150
+552,11/23/2021 20:30,Female,White,Pike County,KY,41501
+553,6/14/2022 18:58,Female,White,Rockcastle County,KY,40456
+554,,,,,,
+556,6/9/2022 15:54,Male,Black/African American,Jefferson County,KY,40291
+557,6/21/2022 18:17,Undisclosed,Undisclosed,Jefferson County,,40220
+558,6/15/2022 19:47,Female,White,Jefferson County,KY,40220
+559,5/5/2022 15:14,Male,White,Jefferson County,KY,40299
+561,6/21/2022 17:47,Male,Black/African American,Jefferson County,KY,40214
+562,6/21/2022 17:36,Male,White,Clark County,IN,47130
+563,6/8/2022 19:32,Male,Black/African American,,,
+564,6/14/2022 19:10,Undisclosed,Undisclosed,Jefferson County,,40216
+565,6/17/2022 13:14,Female,Asian,Jefferson County,KY,40291
+566,6/16/2022 21:45,Female,Other Race,Jefferson County,KY,40216
+567,6/16/2022 13:14,Undisclosed,Undisclosed,,,
+568,6/15/2022 14:41,Female,Black/African American,Jefferson County,KY,40214
+569,1/31/2022 15:49,Undisclosed,Undisclosed,Jefferson County,,40219
+571,8/30/2021 14:52,Undisclosed,Undisclosed,Jefferson County,KY,40216
+572,6/20/2022 19:47,Female,White,Jefferson County,KY,40219
+573,5/20/2020 20:18,Undisclosed,Undisclosed,Jefferson County,KY,40220
+575,,,,,,
+576,6/21/2022 14:59,Undisclosed,Undisclosed,Jefferson County,,40214
+577,6/9/2022 12:38,Male,White,Floyd County,IN,47150
+578,6/3/2022 15:03,Undisclosed,Undisclosed,,,
+579,,,,,,
+580,2/4/2020 14:48,Male,Black/African American,Jefferson County,KY,40216
+581,6/8/2022 20:39,Undisclosed,Undisclosed,,,
+582,6/21/2022 13:17,Undisclosed,Undisclosed,,,
+583,4/5/2022 15:50,Male,Black/African American,Jefferson County,KY,40120
+584,6/19/2022 19:17,Female,White,Clark County,IN,47129
+585,6/21/2022 13:18,Female,White,Clark County,IN,47130
+587,6/21/2022 13:10,Undisclosed,Undisclosed,Jefferson County,,40291
+589,9/20/2021 18:11,Undisclosed,Undisclosed,Jefferson County,KY,40223
+590,,,,,,
+592,6/20/2022 18:36,Male,Black/African American,Jefferson County,KY,40243
+593,5/25/2022 14:35,Female,Black/African American,Jefferson County,KY,40220
+596,6/20/2022 19:49,Undisclosed,Undisclosed,Jefferson County,KY,40219
+597,3/22/2021 14:26,Female,Black/African American,Jefferson County,KY,40220
+598,2/25/2022 18:43,Female,White,Jefferson County,KY,40220
+599,11/24/2021 13:08,Female,Other Race,Jefferson County,KY,40216
+600,10/20/2020 18:17,Male,Black/African American,Jefferson County,KY,40215
+603,6/9/2022 20:12,Female,White,Jefferson County,KY,40217
+604,6/18/2022 17:08,Male,White,Clark County,IN,47130
+605,6/17/2022 20:25,Undisclosed,Undisclosed,Jefferson County,KY,40216
+606,6/17/2022 20:28,Undisclosed,Undisclosed,Jefferson County,KY,40208
+607,6/17/2022 20:30,Undisclosed,Undisclosed,Jefferson County,KY,40211
+608,11/9/2021 18:48,Undisclosed,Undisclosed,Jefferson County,KY,40215
+609,6/16/2022 18:48,Undisclosed,Undisclosed,Jefferson County,,40203
+610,6/16/2022 16:28,Undisclosed,Undisclosed,Jefferson County,,40202
+611,6/15/2022 20:20,Undisclosed,Undisclosed,Jefferson County,,40206
+612,10/15/2021 14:13,Female,Black/African American,Jefferson County,KY,40215
+613,6/17/2022 19:13,Female,Black/African American,Jefferson County,KY,40211
+614,6/17/2022 16:10,Male,Undisclosed,Floyd County,,47150
+615,6/17/2022 19:20,Female,Black/African American,Clark County,IN,47130
+616,,,,,,
+617,9/3/2021 18:47,Female,White,Jefferson County,KY,40299
+618,12/28/2021 16:34,Male,Undisclosed,Pulaski County,KY,40741
+619,5/19/2021 21:32,Female,Black/African American,Jefferson County,KY,40210
+620,6/15/2022 18:34,Female,Undisclosed,Pulaski County,KY,42503
+621,6/17/2022 15:17,Female,White,Jefferson County,KY,40214
+622,5/25/2022 16:49,Female,White,Jefferson County,KY,40219-2252
+624,6/16/2022 16:12,Female,Black/African American,Jefferson County,KY,40210
+625,6/14/2022 15:46,Undisclosed,Undisclosed,Jefferson County,KY,40207
+626,6/1/2022 18:53,Female,Black/African American,Jefferson County,KY,40218
+627,6/15/2022 14:52,Female,Black/African American,Jefferson County,KY,40215
+628,5/10/2022 18:34,Male,Black/African American,Jefferson County,KY,40245
+629,6/17/2022 13:41,Female,White,Jefferson County,KY,40218
+630,4/1/2022 17:02,Female,Black/African American,Jefferson County,KY,40219
+631,6/15/2022 13:20,Male,White,Jefferson County,KY,40272
+632,6/13/2022 13:43,Female,White,Clark County,IN,47130
+633,6/7/2022 0:50,Undisclosed,Undisclosed,Jefferson County,KY,40215
+634,6/16/2022 16:54,Undisclosed,Undisclosed,Jefferson County,KY,40213
+635,6/16/2022 17:45,Undisclosed,Undisclosed,Jefferson County,,40212
+637,6/7/2022 20:22,Male,White,Hardin County,KY,40175
+639,6/15/2022 13:51,Female,Black/African American,Jefferson County,KY,40218
+643,6/14/2022 19:51,Undisclosed,Undisclosed,Jefferson County,KY,40219
+645,6/16/2022 16:44,Undisclosed,Undisclosed,Jefferson County,KY,40210
+646,6/3/2021 9:52,Female,Black/African American,Jefferson County,KY,40210
+647,6/13/2022 19:20,Male,White,Jefferson County,KY,40229
+648,6/16/2022 16:30,Undisclosed,Undisclosed,Jefferson County,KY,40212
+650,6/15/2022 15:08,Female,White,Jefferson County,KY,40219-4832
+651,6/16/2022 16:14,Undisclosed,Undisclosed,Jefferson County,KY,40215
+652,,,,,,
+653,6/16/2022 16:00,Undisclosed,Undisclosed,Jefferson County,KY,40210
+654,6/16/2022 15:52,Undisclosed,Undisclosed,Jefferson County,KY,40216
+655,8/31/2021 21:46,Undisclosed,Undisclosed,Jefferson County,KY,40203
+656,6/16/2022 15:20,Undisclosed,Undisclosed,Jefferson County,KY,40220
+657,2/2/2022 18:19,Undisclosed,Undisclosed,,,
+658,6/7/2022 15:25,Female,Black/African American,Jefferson County,KY,40218
+659,6/7/2022 14:57,Female,Black/African American,Jefferson County,KY,40217
+660,6/13/2022 15:40,Female,Black/African American,Jefferson County,KY,40219
+661,6/14/2022 23:32,Female,White,,KY,42701
+662,6/16/2022 12:46,Female,Undisclosed,Jefferson County,KY,40203
+663,10/29/2021 20:44,Female,Undisclosed,Jefferson County,KY,40218
+665,9/21/2020 18:16,Male,White,Jefferson County,KY,40218
+668,6/16/2022 13:06,Female,Black/African American,Clark County,IN,47129
+669,6/7/2022 18:22,Female,White,Jefferson County,KY,40229
+675,6/10/2022 19:38,Female,White,Jefferson County,KY,40206
+676,6/15/2022 15:55,Undisclosed,Undisclosed,Jefferson County,,40202
+677,6/15/2022 16:35,Undisclosed,Undisclosed,Jefferson County,KY,
+678,4/28/2022 13:58,Undisclosed,Undisclosed,Jefferson County,KY,40212
+679,6/15/2022 19:12,Undisclosed,Undisclosed,Jefferson County,KY,40222
+680,6/14/2021 20:32,Undisclosed,Undisclosed,Jefferson County,KY,40212
+681,6/15/2022 21:37,Female,White,Floyd County,IN,47150
+682,6/6/2022 20:29,Undisclosed,Undisclosed,Jefferson County,,40216
+683,6/15/2022 20:40,Female,White,Floyd County,IN,47150
+684,5/31/2022 15:35,Female,White,Hopkins County,KY,42440
+686,6/15/2022 12:37,Undisclosed,Undisclosed,Jefferson County,,40213
+687,6/15/2022 18:55,Female,Black/African American,Jefferson County,KY,40291
+688,6/15/2022 18:28,Undisclosed,Undisclosed,,,
+689,6/15/2022 17:59,Female,Undisclosed,Jefferson County,KY,40216
+690,6/7/2022 12:59,Male,American Indian or Alaska Native,Floyd County,IN,47150
+691,6/15/2022 15:31,Undisclosed,Undisclosed,Shelby County,,40065
+693,6/6/2022 19:05,Male,White,Bullitt County,KY,40129-0035
+694,6/14/2022 17:11,Female,White,Jefferson County,KY,40228-2016
+695,6/15/2022 15:21,Undisclosed,Undisclosed,,,40272
+696,6/13/2022 20:05,Undisclosed,Undisclosed,Jefferson County,,40208
+697,5/26/2022 16:54,Undisclosed,Undisclosed,Jefferson County,,40210
+698,6/13/2022 17:31,Undisclosed,Undisclosed,Jefferson County,,40203
+699,6/3/2021 14:30,Female,Black/African American,Jefferson County,KY,40217
+700,6/3/2022 18:38,Undisclosed,Undisclosed,Jefferson County,,40291
+701,6/9/2022 15:27,Undisclosed,Undisclosed,Jefferson County,,40258
+702,6/9/2022 14:55,Undisclosed,Undisclosed,Jefferson County,,40214
+703,4/29/2022 13:52,Male,Black/African American,Jefferson County,KY,
+704,6/15/2022 14:18,Undisclosed,Undisclosed,Jefferson County,KY,40212
+706,6/14/2022 20:37,Female,Undisclosed,Clark County,KY,40391
+707,6/3/2022 18:45,Male,Other Race,Jefferson County,KY,40219
+708,6/14/2022 15:06,Male,Other Race,Jefferson County,KY,40213
+709,10/15/2021 15:22,Male,Black/African American,Jefferson County,KY,40211
+710,6/15/2022 13:55,Female,Black/African American,Jefferson County,KY,40245
+711,6/15/2022 13:54,Male,Black/African American,,KY,40245
+712,6/15/2022 13:55,Male,Black/African American,Jefferson County,KY,40216
+713,6/15/2022 13:54,Male,Black/African American,Jefferson County,KY,40211
+714,6/15/2022 13:52,Female,Black/African American,Jefferson County,KY,40211
+715,6/15/2022 13:50,Male,Black/African American,Jefferson County,KY,40216
+716,6/15/2022 13:41,Female,Black/African American,Jefferson County,KY,40214
+717,6/15/2022 13:32,Female,Black/African American,Jefferson County,KY,40211
+718,6/9/2022 18:53,Undisclosed,Undisclosed,Jefferson County,,40212
+720,6/10/2022 11:57,Female,White,Harrison County,IN,47112
+721,,,,,,
+722,6/10/2022 16:33,Male,White,Jefferson County,KY,40291
+723,2/22/2022 13:39,Male,White,Clark County,IN,47130
+724,6/14/2022 19:00,Undisclosed,Undisclosed,Jefferson County,,40216
+725,6/14/2022 15:46,Undisclosed,Undisclosed,Jefferson County,,40216
+726,10/9/2021 12:41,Female,White,Clark County,IN,47130
+727,6/14/2022 16:50,Undisclosed,Undisclosed,Jefferson County,,40211
+730,3/9/2022 16:08,Male,White,Jefferson County,KY,40203
+731,6/14/2022 17:42,Female,White,Wayne County,KY,42633
+733,6/14/2022 18:44,Male,White,Floyd County,IN,47150
+734,6/9/2022 17:32,Male,Other Race,Clark County,IN,47111
+735,6/14/2022 18:39,Female,Undisclosed,Floyd County,IN,47150
+736,6/14/2022 18:23,Female,Undisclosed,Clark County,IN,47130
+737,6/14/2022 16:37,Male,White,Franklin County,KY,40601
+738,6/13/2022 16:16,Female,White,Harrison County,IN,47164
+740,6/13/2022 20:14,Female,White,Bullitt County,KY,40047
+741,6/11/2022 18:09,Female,White,Bullitt County,KY,40110-0100
+742,6/14/2022 17:27,Male,Other Race,Harrison County,IN,47112
+743,6/7/2022 17:40,Female,White,Jefferson County,KY,40202
+745,6/6/2022 14:16,Female,Black/African American,Clark County,IN,47129
+746,6/2/2022 21:11,Female,Other Race,Jefferson County,KY,
+747,5/10/2022 16:49,Female,White,Harrison County,IN,47117
+749,12/28/2021 16:48,Male,Undisclosed,Warren County,KY,42101
+750,6/13/2022 15:41,Undisclosed,Undisclosed,Jefferson County,KY,40211
+751,5/19/2022 14:35,Female,Black/African American,Jefferson County,KY,40211
+752,2/18/2022 20:58,Female,Other Race,Jefferson County,KY,40210
+753,6/10/2022 16:41,Undisclosed,Undisclosed,,,
+754,6/10/2022 16:12,Undisclosed,Undisclosed,Jefferson County,KY,40211
+755,5/9/2022 16:08,Male,White,,,
+756,6/9/2022 17:36,Undisclosed,Undisclosed,,,
+757,6/6/2022 19:42,Female,White,Greenup County,KY,41144
+758,6/14/2022 13:43,Female,White,,,
+759,6/13/2022 13:49,Female,Undisclosed,Hardin County,KY,40160
+760,6/14/2022 13:21,Male,American Indian or Alaska Native,Clark County,IN,47106
+761,6/13/2022 12:46,Undisclosed,Undisclosed,,,
+762,6/13/2022 20:50,Undisclosed,Undisclosed,Jefferson County,KY,40204
+764,6/3/2022 16:47,Undisclosed,Undisclosed,,,40272
+765,,,,,,
+776,6/10/2022 19:09,Male,Undisclosed,Fayette County,KY,40509
+777,6/13/2022 16:21,Undisclosed,Undisclosed,Jefferson County,,40291
+778,6/3/2022 15:49,Undisclosed,Undisclosed,Jefferson County,,40203
+779,6/10/2022 16:53,Female,White,Adair County,KY,42728
+780,6/13/2022 15:31,Female,Undisclosed,Jefferson County,KY,40214
+781,6/13/2022 18:07,Female,Undisclosed,Jefferson County,KY,40219
+782,6/13/2022 18:45,Undisclosed,Undisclosed,Jefferson County,,40208
+783,6/13/2022 15:25,Undisclosed,Undisclosed,Jefferson County,,40211
+784,,,,,,
+785,6/6/2022 19:39,Undisclosed,Undisclosed,,,40150
+786,6/13/2022 19:14,Female,Native Hawaiian or Pacific Islander,Floyd County,IN,47150
+787,6/3/2022 13:37,Female,White,Jefferson County,KY,40219
+788,5/25/2022 13:14,Female,Undisclosed,Jefferson County,KY,40214
+789,6/6/2022 15:02,Undisclosed,Undisclosed,,,40245
+790,6/13/2022 16:42,Male,White,Henry County,KY,40057
+791,6/13/2022 18:12,Female,Undisclosed,Christian County,KY,42240
+792,6/13/2022 14:34,Undisclosed,Undisclosed,Jefferson County,,40217
+793,6/13/2022 15:48,Undisclosed,Undisclosed,,,40150
+794,6/10/2022 20:14,Female,White,Laurel County,KY,40741
+795,6/13/2022 17:23,Undisclosed,Undisclosed,,,
+796,6/9/2022 20:26,Undisclosed,Undisclosed,Jefferson County,,40207
+797,6/3/2022 17:21,Undisclosed,Undisclosed,Jefferson County,,40216
+798,6/7/2022 16:00,Undisclosed,Undisclosed,Jefferson County,,40214
+800,6/13/2022 16:36,Male,Undisclosed,Jefferson County,KY,40210
+801,6/13/2022 16:33,Male,Black/African American,Jefferson County,KY,40220
+802,6/13/2022 16:32,Female,Black/African American,Jefferson County,KY,40203
+803,,,,,,
+805,2/9/2022 16:47,Undisclosed,Undisclosed,Jefferson County,KY,40213
+806,5/20/2022 14:02,Female,Black/African American,Jefferson County,KY,40211
+809,6/10/2022 16:23,Female,White,Jefferson County,KY,40215
+810,2/24/2022 20:23,Male,Black/African American,Jefferson County,KY,40219
+812,6/9/2022 19:29,Undisclosed,Undisclosed,Jefferson County,KY,40217
+813,6/10/2022 16:06,Undisclosed,Undisclosed,Jefferson County,,40212
+814,12/27/2021 15:43,Female,Undisclosed,Jefferson County,KY,40216
+815,6/10/2022 20:12,Undisclosed,Undisclosed,Jefferson County,KY,40229
+816,6/10/2022 20:13,Undisclosed,Undisclosed,Jefferson County,KY,40216
+817,6/10/2022 20:16,Undisclosed,Undisclosed,Jefferson County,KY,40291
+818,6/13/2022 12:18,Female,Undisclosed,Jefferson County,KY,40214
+819,6/13/2022 12:23,Female,White,Clark County,IN,47130
+820,,,,,,
+821,,,,,,
+823,6/10/2022 19:35,Male,Undisclosed,Floyd County,IN,47150
+825,4/20/2022 15:47,Undisclosed,Undisclosed,,,40241
+826,4/22/2022 19:01,Female,White,Floyd County,IN,47150
+827,6/10/2022 17:19,Male,Black/African American,Jefferson County,KY,40212
+828,6/3/2022 14:07,Female,White,Jefferson County,KY,40229
+829,6/10/2022 15:40,Female,White,Jefferson County,KY,40220-0000
+830,6/10/2022 17:35,Undisclosed,Undisclosed,,,
+831,,,,,,
+832,3/31/2022 17:17,Male,White,Jefferson County,KY,40243
+833,5/27/2022 15:27,Female,Black/African American,Jefferson County,KY,40210
+834,6/6/2022 18:18,Female,Other Race,Floyd County,IN,47150
+835,5/12/2022 13:04,Female,White,Campbell County,KY,41075
+836,6/10/2022 14:51,Undisclosed,Undisclosed,Bourbon County,KY,40361
+837,6/1/2022 14:16,Female,Black/African American,Jefferson County,KY,40204
+838,6/2/2022 14:26,Male,White,Jefferson County,KY,40258
+839,6/9/2022 18:26,Undisclosed,Undisclosed,Jefferson County,,40211
+841,6/10/2022 14:07,Female,Black/African American,Jefferson County,KY,40216
+843,6/17/2021 18:48,Male,White,Clark County,IN,47130
+844,6/2/2022 21:20,Female,Black/African American,Jefferson County,KY,40210
+846,5/19/2022 13:25,Female,Black/African American,Jefferson County,KY,40203
+848,6/9/2022 17:35,Female,Black/African American,Jefferson County,KY,40204
+849,6/10/2021 19:41,Male,Black/African American,Jefferson County,KY,40211
+851,6/9/2022 18:46,Female,White,Jefferson County,KY,40242
+852,6/9/2022 18:31,Female,White,Jefferson County,KY,40207
+855,1/18/2022 21:40,Female,White,Hopkins County,KY,42431
+856,6/8/2022 17:59,Undisclosed,Undisclosed,McCreary County,KY,42653
+858,6/3/2022 13:36,Female,White,Harrison County,IN,47161
+859,6/9/2022 12:12,Female,White,Bullitt County,KY,40047
+860,6/1/2022 13:38,Female,White,Bullitt County,KY,40047
+861,3/17/2021 15:53,Female,White,Jefferson County,KY,40291
+862,5/23/2022 13:17,Female,Black/African American,Jefferson County,KY,40211
+863,6/3/2022 14:48,Undisclosed,Undisclosed,,,40047
+864,6/9/2022 16:37,Undisclosed,Undisclosed,Bullitt County,,40165
+865,6/7/2022 18:00,Undisclosed,Undisclosed,Bullitt County,KY,
+866,9/20/2021 14:25,Male,Black/African American,Jefferson County,KY,40202
+867,,,,,,
+868,,,,,,
+869,5/19/2022 15:30,Female,White,Jefferson County,KY,40118
+870,6/1/2022 19:36,Female,White,Jefferson County,KY,40220
+871,6/1/2022 18:52,Female,Black/African American,Jefferson County,KY,40203
+875,4/1/2021 12:35,Undisclosed,Undisclosed,Clark County,IN,47111
+877,5/9/2022 17:20,Female,Black/African American,Jefferson County,KY,40210
+879,2/22/2022 19:07,Male,Black/African American,Jefferson County,KY,40210
+880,4/1/2022 15:53,Undisclosed,Undisclosed,Jefferson County,KY,40258
+881,6/1/2022 15:02,Female,White,Jefferson County,KY,40212
+882,6/8/2022 19:12,Undisclosed,Undisclosed,Jefferson County,KY,40216
+883,6/8/2022 19:42,Female,Undisclosed,Jefferson County,KY,40218
+884,6/8/2022 20:23,Female,Undisclosed,Jefferson County,KY,40218
+885,4/7/2022 22:06,Female,Black/African American,Jefferson County,KY,40220
+886,,,,,,
+887,6/8/2022 18:50,Female,Undisclosed,Bullitt County,KY,40229
+889,,,,,,
+890,1/28/2022 14:17,Female,Undisclosed,Christian County,KY,42240
+891,6/7/2022 14:03,Undisclosed,Undisclosed,Boone County,KY,41042
+892,6/7/2022 14:13,Undisclosed,Undisclosed,Boone County,KY,41042
+893,6/3/2022 15:44,Undisclosed,Undisclosed,Jefferson County,,40204
+894,6/7/2022 20:23,Undisclosed,Undisclosed,Jefferson County,KY,40220
+895,6/8/2022 14:11,Undisclosed,Undisclosed,Jefferson County,,40212
+896,6/8/2022 14:42,Undisclosed,Undisclosed,Jefferson County,KY,40215
+897,6/8/2022 17:22,Female,Undisclosed,Jefferson County,KY,40219
+898,,,,,,
+899,6/7/2022 16:17,Female,Black/African American,Jefferson County,KY,40299
+900,,,,,,
+901,,,,,,
+902,5/16/2022 20:11,Female,White,Jefferson County,KY,40219
+904,6/8/2022 16:28,Female,White,,KY,40245
+905,6/8/2022 16:27,Female,Black/African American,Clark County,IN,47129
+906,6/8/2022 16:25,Female,Undisclosed,Jefferson County,KY,40212
+908,6/3/2022 19:59,Female,White,Jefferson County,KY,40215
+909,6/7/2022 12:12,Undisclosed,Undisclosed,,,40071
+910,2/25/2021 5:18,Female,Black/African American,Jefferson County,KY,40220
+912,6/25/2021 20:08,Female,Black/African American,Jefferson County,KY,40210
+913,6/7/2022 2:37,Female,Undisclosed,Jefferson County,KY,40229
+915,6/7/2022 1:23,Undisclosed,Undisclosed,Jefferson County,KY,40218
+916,3/22/2022 15:33,Male,White,Jefferson County,KY,40219
+917,6/8/2022 12:14,Female,White,Jefferson County,KY,40272-2587
+918,6/7/2022 14:36,Female,Black/African American,Jefferson County,KY,40210
+919,6/7/2022 20:51,Undisclosed,Undisclosed,Jefferson County,KY,40299
+921,5/11/2022 16:36,Female,Undisclosed,Jessamine County,KY,40356
+922,6/8/2022 14:02,Other,Black/African American,Jefferson County,KY,40212
+923,6/8/2022 14:00,Female,Black/African American,Jefferson County,KY,40203
+924,6/8/2022 13:59,Female,Black/African American,Jefferson County,KY,40216
+925,6/8/2022 13:57,Female,Black/African American,Jefferson County,KY,40203
+926,6/8/2022 13:54,Male,Black/African American,Jefferson County,KY,40208
+927,6/8/2022 13:52,Female,Black/African American,Jefferson County,KY,40211
+928,6/7/2022 17:07,Male,White,Madison County,KY,40475
+929,6/2/2022 18:25,Male,Black/African American,Jefferson County,KY,40291
+930,3/10/2022 21:09,Male,Black/African American,Floyd County,IN,47150
+931,6/7/2022 20:26,Undisclosed,Undisclosed,Jefferson County,KY,40203
+932,6/7/2022 22:16,Female,White,Clark County,IN,47172
+933,5/10/2022 14:43,Male,Black/African American,Jefferson County,KY,
+934,6/3/2022 18:28,Undisclosed,Undisclosed,,,
+935,5/26/2022 19:52,Female,White,McCreary County,KY,42647
+936,4/28/2022 15:33,Male,White,Daviess County,KY,42303
+937,6/3/2022 19:20,Female,White,Jefferson County,KY,40204
+938,5/10/2022 14:13,Female,White,Clark County,IN,47130
+939,1/25/2021 22:28,Female,White,Floyd County,IN,47150
+940,5/26/2022 20:28,Female,Undisclosed,Kenton County,KY,41014
+941,6/1/2022 13:54,Female,Undisclosed,Henderson County,KY,42420
+946,6/7/2022 16:22,Female,Undisclosed,Harrison County,IN,47164
+947,6/7/2022 15:57,Female,Black/African American,Jefferson County,KY,40212
+948,,,,,,
+950,6/7/2022 2:10,Undisclosed,Undisclosed,Jefferson County,KY,40241
+951,6/7/2022 1:33,Undisclosed,Undisclosed,Jefferson County,KY,40241
+952,2/26/2021 1:28,Female,White,Jefferson County,KY,40212
+953,6/7/2022 1:51,Undisclosed,Undisclosed,Jefferson County,KY,40272
+954,6/7/2022 14:22,Female,Black/African American,Jefferson County,KY,40203
+955,6/7/2022 1:05,Undisclosed,Undisclosed,Jefferson County,KY,40258
+956,5/31/2022 20:11,Male,White,Jefferson County,KY,40204
+958,6/6/2022 23:42,Undisclosed,Undisclosed,Jefferson County,KY,40211
+959,6/7/2022 2:05,Undisclosed,Undisclosed,Jefferson County,KY,40210
+960,6/7/2022 2:28,Undisclosed,Undisclosed,Jefferson County,KY,40211
+961,6/7/2022 13:42,Female,Black/African American,Jefferson County,KY,40211
+962,6/7/2022 13:37,Male,Black/African American,Jefferson County,KY,40215
+963,6/6/2022 18:53,Female,White,Jefferson County,KY,40220
+964,6/7/2022 12:45,Undisclosed,Undisclosed,Jefferson County,KY,40211
+965,6/6/2022 20:26,Male,White,Floyd County,IN,47150
+966,7/19/2021 17:26,Male,Black/African American,Jefferson County,KY,40208
+967,3/22/2022 19:06,Female,White,Oldham County,KY,40014
+970,6/3/2022 13:21,Female,Undisclosed,Jefferson County,KY,40218
+971,6/6/2022 18:34,Undisclosed,Undisclosed,Jefferson County,,40210
+972,6/6/2022 18:36,Female,Undisclosed,Jefferson County,KY,40218
+974,6/6/2022 17:48,Female,Black/African American,Jefferson County,KY,40213
+975,6/14/2019 13:34,Female,Black/African American,Jefferson County,KY,40272
+976,6/6/2022 20:03,Undisclosed,Undisclosed,Jefferson County,,40218
+977,6/6/2022 20:00,Undisclosed,Undisclosed,Fayette County,,40502
+978,6/6/2022 15:39,Female,White,Jefferson County,KY,40207
+980,,,,,,
+982,6/1/2022 16:17,Female,Undisclosed,Jefferson County,KY,40229
+983,,,,,,
+984,,,,,,
+986,6/6/2022 16:38,Undisclosed,Undisclosed,Jefferson County,,40217
+988,6/6/2022 16:36,Female,Undisclosed,Clark County,IN,47130
+989,6/6/2022 16:05,Undisclosed,Undisclosed,Jefferson County,KY,40212
+990,6/6/2022 16:20,Undisclosed,Undisclosed,Jefferson County,,40218
+991,6/6/2022 15:59,Female,Undisclosed,Floyd County,IN,47150
+992,6/6/2022 14:41,Undisclosed,White,Los Angeles County,CA,91605
+993,6/6/2022 13:17,Male,Undisclosed,Jefferson County,KY,40212
+995,6/6/2022 14:40,Undisclosed,White,Riverside County,CA,
+996,6/6/2022 14:38,Undisclosed,Other Race,Maricopa County,AZ,85035
+997,,,,,,
+998,1/21/2022 16:53,Male,Black/African American,Jefferson County,KY,40211
+999,6/3/2022 20:33,Female,White,Grant County,KY,41030
+1002,6/6/2022 12:15,Female,White,,,
+1003,6/2/2022 21:15,Female,Undisclosed,Jefferson County,KY,40201
+1004,6/3/2022 13:57,Undisclosed,Undisclosed,Scott County,KY,40324
+1005,11/8/2021 16:25,Female,White,Mercer County,KY,40330
+1006,6/3/2022 20:09,Undisclosed,Black/African American,Jefferson County,KY,40219
+1007,6/3/2022 19:59,Male,Black/African American,,KY,40229
+1008,,,,,,
+1009,2/21/2022 18:30,Female,Black/African American,Jefferson County,KY,40203
+1010,6/3/2022 19:44,Female,Black/African American,Jefferson County,KY,40210
+1011,6/3/2022 19:24,Male,Black/African American,Jefferson County,KY,40210
+1012,6/3/2022 19:22,Female,Black/African American,Jefferson County,KY,40219
+1013,6/3/2022 19:08,Female,White,Kenton County,KY,41015
+1014,4/1/2022 14:15,Male,Black/African American,Jefferson County,KY,40218
+1017,6/3/2022 18:02,Male,White,Oldham County,KY,40031
+1019,6/3/2022 18:26,Undisclosed,Undisclosed,Jefferson County,KY,40220
+1020,6/3/2022 16:53,Female,White,Barren County,KY,42141
+1021,6/3/2022 15:31,Undisclosed,Undisclosed,Jefferson County,,40211
+1022,,,,,,
+1024,5/24/2022 17:04,Male,White,Jefferson County,KY,40272
+1026,,,,,,
+1027,5/18/2022 13:51,Female,Undisclosed,Scott County,KY,40324
+1028,6/3/2022 14:42,Undisclosed,Undisclosed,Logan County,KY,42256
+1029,6/1/2022 17:45,Female,White,Clark County,IN,47129
+1036,9/23/2021 17:51,Female,White,Shelby County,KY,40065
+1040,,,,,,
+1041,,,,,,
+1042,3/25/2022 12:56,Male,Black/African American,Jefferson County,KY,40215
+1043,,,,,,
+1045,5/25/2022 20:34,Male,Other Race,Jefferson County,KY,40214
+1046,4/21/2022 19:08,Female,White,,,
+1047,6/2/2022 18:14,Undisclosed,Undisclosed,Jefferson County,KY,40258
+1048,6/2/2022 20:45,Undisclosed,Undisclosed,Jefferson County,KY,40214
+1049,6/2/2022 20:48,Undisclosed,Undisclosed,Jefferson County,KY,40216
+1054,6/2/2022 19:31,Female,White,Jefferson County,KY,40214
+1055,6/1/2022 19:31,Undisclosed,Undisclosed,,,
+1056,7/16/2021 12:12,Male,White,Jefferson County,KY,40214
+1057,6/2/2022 17:30,Undisclosed,Undisclosed,Jefferson County,KY,40210
+1070,6/1/2022 16:11,Undisclosed,Undisclosed,Jefferson County,,40217
+1071,6/1/2022 19:12,Undisclosed,Undisclosed,Jefferson County,KY,40216
+1072,6/2/2022 15:49,Female,White,Spencer County,KY,40071
+1073,6/1/2022 20:20,Undisclosed,Undisclosed,Jefferson County,KY,40258
+1074,6/2/2022 15:51,Undisclosed,Undisclosed,Jefferson County,,40215
+1076,6/2/2022 15:48,Female,Undisclosed,Floyd County,IN,47150
+1077,6/2/2022 15:31,Undisclosed,Undisclosed,,,
+1079,6/1/2022 19:57,Female,White,Jefferson County,KY,40205
+1080,6/1/2022 16:00,Female,White,Jefferson County,KY,40228
+1083,6/2/2022 12:38,Female,White,Clark County,IN,47172
+1084,3/30/2022 13:38,Female,Black/African American,Jefferson County,KY,40258
+1085,6/1/2022 17:48,Female,Black/African American,Jefferson County,KY,40215
+1086,6/1/2022 16:17,Undisclosed,Undisclosed,Fayette County,KY,40515
+1089,6/1/2022 15:42,Female,Undisclosed,Oldham County,KY,40056
+1090,6/1/2022 16:16,Undisclosed,Undisclosed,Shelby County,,40065
+1091,6/4/2021 1:36,Female,Black/African American,Jefferson County,KY,40215-1496
+1092,8/29/2021 15:56,Male,Black/African American,Jefferson County,KY,40214
+1094,6/1/2022 17:26,Female,Black/African American,,KY,40229
+1096,6/1/2022 14:30,Undisclosed,Undisclosed,Jefferson County,,40228
+1097,6/1/2022 16:46,Male,Black/African American,Jefferson County,KY,40219
+1098,6/1/2022 16:36,Female,Black/African American,Jefferson County,KY,40220
+1099,6/1/2022 16:35,Female,Black/African American,Jefferson County,KY,40215
+1100,6/1/2022 16:34,Female,Black/African American,Jefferson County,KY,40211
+1101,3/10/2022 16:51,Female,Undisclosed,Campbell County,KY,41085
+1102,1/3/2022 16:43,Male,Black/African American,Jefferson County,KY,40218
+1104,5/31/2022 18:34,Male,Undisclosed,Pike County,KY,41501
+1105,6/1/2022 14:13,Undisclosed,Undisclosed,,,
+1106,5/26/2022 14:11,Male,Black/African American,Jefferson County,KY,40216
+1107,5/10/2022 14:14,Female,White,Jefferson County,KY,40243
+1108,,,,,,
+1109,,,,,,
+1110,5/5/2022 18:22,Female,Black/African American,Jefferson County,KY,40218
+1111,5/18/2022 20:38,Undisclosed,Undisclosed,Orange County,CA,92841
+1112,3/14/2022 15:11,Male,Black/African American,Jefferson County,KY,40214
+1113,5/24/2022 16:25,Female,White,Leslie County,KY,41749
+1114,4/8/2022 17:20,Male,White,McCracken County,KY,42001
+1115,5/23/2022 13:22,Female,White,Daviess County,KY,42303
+1116,12/2/2021 19:14,Female,Black/African American,Jefferson County,KY,40211
+1117,6/17/2022 16:05,Female,Black/African American,Jefferson County,KY,40299
+1118,6/30/2022 17:43,Male,Black/African American,Jefferson County,KY,40212
+1119,9/28/2021 15:37,Female,Undisclosed,Jefferson County,KY,40203
+1120,6/10/2019 17:23,Female,Black/African American,Jefferson County,KY,40212
+1121,5/11/2022 13:02,Female,White,Harrison County,IN,47117
+1122,6/10/2019 15:39,Female,Black/African American,Jefferson County,KY,40203
+1123,8/9/2021 12:38,Female,Black/African American,Jefferson County,KY,40258
+1124,,,,,,
+1125,,,,,,
+1126,5/22/2022 21:54,Male,Undisclosed,Jefferson County,KY,40212
+1127,5/12/2022 15:50,Male,Other Race,Jefferson County,KY,40209
+1128,5/9/2022 13:37,Male,White,Floyd County,IN,47150
+1129,4/26/2022 14:32,Male,Undisclosed,Jefferson County,KY,40217
+1130,5/24/2022 18:08,Female,White,Pulaski County,KY,42553
+1131,1/5/2022 14:40,Male,White,Floyd County,IN,47150
+1132,12/14/2021 13:15,Male,Black/African American,Jefferson County,KY,40216
+1133,10/26/2021 19:00,Female,White,Floyd County,IN,47150
+1134,5/27/2022 13:05,Undisclosed,Undisclosed,,,
+1135,5/5/2022 19:04,Female,White,Bullitt County,KY,40165
+1136,5/10/2022 19:53,Female,Other Race,Jefferson County,KY,40219
+1137,1/25/2021 14:37,Female,Black/African American,Jefferson County,KY,40210
+1138,3/17/2020 19:01,Female,Black/African American,Jefferson County,KY,40215
+1139,5/13/2019 16:09,Female,Black/African American,Jefferson County,KY,40219
+1140,6/17/2022 15:38,Female,White,Jefferson County,KY,40203
+1141,,,,,,
+1142,9/10/2021 16:36,Female,White,Clark County,IN,47130
+1143,10/12/2021 16:08,Male,Black/African American,Jefferson County,KY,40212
+1144,6/3/2019 18:09,Male,Black/African American,Jefferson County,KY,40203
+1145,1/8/2021 2:08,Female,White,Larue County,KY,40051
+1146,4/19/2022 14:05,Female,White,Jefferson County,KY,40214
+1147,7/1/2021 14:06,Female,White,Floyd County,IN,47150
+1148,5/9/2022 16:41,Female,White,Floyd County,IN,47150
+1149,9/29/2021 19:06,Female,Black/African American,Jefferson County,KY,40203
+1150,3/23/2022 15:18,Female,White,Bullitt County,KY,40047
+1151,11/22/2021 18:34,Female,White,Orange County,IN,47454
+1152,5/17/2022 14:37,Female,Other Race,Floyd County,IN,47150
+1153,5/9/2022 15:38,Female,Other Race,Clark County,IN,47130
+1154,11/16/2021 17:47,Female,Black/African American,Jefferson County,KY,40212
+1155,9/14/2020 12:07,Female,White,,KY,40109
+1156,3/3/2022 19:01,Male,White,Jefferson County,KY,40219
+1157,3/30/2021 16:32,Female,Black/African American,Floyd County,IN,47150
+1158,12/10/2021 13:29,Male,White,Floyd County,IN,47150
+1159,,,,,,
+1160,5/11/2022 15:39,Undisclosed,Undisclosed,Calloway County,KY,42071
+1161,6/28/2022 15:02,Female,White,Rockcastle County,KY,40460
+1162,5/17/2022 20:06,Female,White,Wayne County,KY,42633
+1163,,,,,,
+1164,5/19/2022 19:07,Male,Undisclosed,Jefferson County,KY,40203
+1165,3/21/2022 17:08,Male,Black/African American,Jefferson County,,40211
+1166,10/1/2021 15:30,Female,White,Floyd County,IN,47150
+1167,5/11/2022 18:09,Female,White,Campbell County,KY,41073
+1168,1/28/2022 20:17,Male,White,Hardin County,KY,40177
+1169,3/7/2022 17:30,Female,Black/African American,Floyd County,IN,47150
+1170,5/4/2022 18:38,Undisclosed,Undisclosed,,,
+1171,5/11/2022 20:42,Male,Black/African American,Fayette County,KY,40508
+1172,3/22/2022 12:41,Male,White,Harrison County,IN,47112
+1173,3/18/2022 19:40,Male,Black/African American,Jefferson County,KY,40214
+1174,12/17/2020 20:22,Female,Black/African American,Jefferson County,,40210
+1175,3/24/2022 20:00,Female,Black/African American,Jefferson County,KY,40291
+1176,3/22/2022 20:10,Female,Black/African American,Jefferson County,KY,40218
+1177,5/12/2022 19:31,Female,Undisclosed,Christian County,KY,42240
+1178,,,,,,
+1179,5/4/2022 19:58,Male,White,Floyd County,IN,47150
+1180,5/12/2022 21:06,Male,Other Race,Marion County,,40033
+1181,11/30/2021 21:26,Female,White,,KY,40475
+1182,4/7/2021 17:12,Female,Undisclosed,Clark County,IN,47111
+1183,4/28/2022 17:57,Female,White,Oldham County,KY,40031
+1184,1/11/2022 11:55,Female,Black/African American,Jefferson County,KY,40211
+1185,5/19/2021 17:28,Female,White,Jefferson County,KY,40212
+1186,1/31/2022 17:28,Male,Undisclosed,,,
+1187,12/4/2020 14:36,Male,Undisclosed,Jefferson County,KY,40204
+1188,5/27/2022 14:13,Female,Black/African American,,,
+1189,,,,,,
+1190,9/30/2021 12:32,Male,Black/African American,Jefferson County,KY,40214
+1191,2/24/2022 18:14,Female,Undisclosed,Christian County,KY,42240
+1192,,,,,,
+1193,4/20/2022 19:41,Female,White,Jefferson County,KY,40204
+1194,4/13/2022 23:48,Female,White,Marion County,KY,40037
+1195,5/12/2022 16:08,Female,Black/African American,Floyd County,IN,47150
+1196,3/28/2022 17:10,Male,White,Jefferson County,KY,40218
+1197,2/11/2020 16:20,Female,Black/African American,Jefferson County,KY,40203
+1198,6/10/2019 14:51,Female,Black/African American,Jefferson County,KY,40203
+1199,6/7/2019 15:30,Female,Black/African American,Jefferson County,KY,40219
+1200,7/9/2020 16:31,Female,Black/African American,Jefferson County,KY,40203
+1201,4/12/2022 16:48,Male,Black/African American,Jefferson County,KY,40245
+1202,8/28/2020 15:23,Undisclosed,Black/African American,Jefferson County,KY,40216
+1203,12/10/2020 19:05,Female,Black/African American,Jefferson County,KY,40211
+1204,5/26/2022 14:47,Female,Black/African American,Clark County,IN,47130
+1205,12/16/2021 15:12,Male,White,Knox County,IN,47591
+1206,4/1/2022 15:31,Undisclosed,Undisclosed,Jefferson County,KY,40211
+1207,12/18/2020 23:39,Female,Black/African American,Jefferson County,KY,40215
+1208,5/9/2022 16:03,Male,Black/African American,Jefferson County,KY,40203
+1209,5/10/2022 19:51,Female,White,Mercer County,KY,40330
+1210,10/14/2021 18:39,Female,Black/African American,Jefferson County,KY,40212
+1211,6/28/2022 16:02,Female,Black/African American,Jefferson County,KY,40216
+1212,,,,,,
+1213,5/25/2021 16:28,Female,Black/African American,Jefferson County,KY,40211
+1214,5/24/2022 21:08,Female,White,Bullitt County,KY,40165
+1215,,,,,,
+1216,,,,,,
+1217,12/30/2021 16:03,Female,White,,KY,40215
+1218,1/5/2022 13:53,Female,Black/African American,Jefferson County,KY,40211
+1219,10/25/2021 15:52,Female,Undisclosed,Jefferson County,KY,40211
