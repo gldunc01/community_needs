@@ -33,7 +33,7 @@ ser['Address 1 Postal Code'] = ser['Address 1 Postal Code'].str.slice(0, 5)
 
 
 #Creating new csv in project folder of clean data
-#ser.to_csv(r'ser_cleaned.csv', index = False)
+ser.to_csv(r'ser_cleaned.csv', index = False)
 
 
 
