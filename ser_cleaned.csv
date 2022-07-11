@@ -2,7 +2,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 1533,401,2022-06-19 23:30:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40203,Male,24.0
 1533,401,2022-06-19 23:30:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40203,Male,24.0
 1534,38,2022-06-29 17:22:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40211,Male,24.0
-1568,140,2022-06-08 16:55:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Male,54.0
+1568,140,2022-06-08 16:55:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Male,54.0
 1599,392,2021-12-22 20:57:00,Money Management,Financial Counseling,Organization 104,Jefferson County,KY,40212,Female,25.0
 1602,121,2022-06-28 10:38:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40210,Male,21.0
 1607,730,2022-06-09 22:34:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40203,Male,40.0
@@ -32,7 +32,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 2261,38,2022-06-10 18:10:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40211,Male,24.0
 2265,572,2022-06-21 15:42:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40219,Female,41.0
 2300,572,2022-06-20 19:49:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40219,Female,41.0
-2310,140,2022-06-29 19:48:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Male,54.0
+2310,140,2022-06-29 19:48:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Male,54.0
 2364,122,2022-06-13 16:26:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40214,Male,24.0
 2376,38,2022-06-28 17:42:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40211,Male,24.0
 2414,38,2022-06-03 18:40:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40211,Male,24.0
@@ -80,21 +80,21 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3663,122,2022-06-28 10:32:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40214,Male,24.0
 3673,117,2022-06-28 10:36:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40212,Male,18.0
 3707,730,2022-06-14 20:37:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40203,Male,40.0
-1921,582,2022-06-21 13:18:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Undisclosed,17.0
-1954,758,2022-06-14 13:44:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Female,28.0
-2184,190,2022-06-26 11:18:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Female,17.0
-2254,379,2022-06-27 12:45:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Female,62.0
-2306,761,2022-06-14 13:10:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Undisclosed,22.0
+1921,582,2022-06-21 13:18:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Undisclosed,17.0
+1954,758,2022-06-14 13:44:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Female,28.0
+2184,190,2022-06-26 11:18:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Female,17.0
+2254,379,2022-06-27 12:45:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Female,62.0
+2306,761,2022-06-14 13:10:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Undisclosed,22.0
 2355,350,2022-06-16 13:45:00,Employment,Job Search/Placement,Organization 104,Jefferson County,KY,40220,Undisclosed,67.0
-2516,761,2022-06-13 12:47:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Undisclosed,22.0
-2991,1002,2022-06-06 12:16:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Female,63.0
-3096,180,2022-06-23 17:12:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Male,26.0
-3101,180,2022-06-23 17:10:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Male,26.0
+2516,761,2022-06-13 12:47:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Undisclosed,22.0
+2991,1002,2022-06-06 12:16:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Female,63.0
+3096,180,2022-06-23 17:12:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Male,26.0
+3101,180,2022-06-23 17:10:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Male,26.0
 3127,610,2022-06-16 18:07:00,Employment,Job Search/Placement,Organization 104,Jefferson County,KY,40202,Undisclosed,52.0
-3147,399,2022-06-17 18:32:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Female,31.0
-3382,399,2022-06-17 18:36:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Female,31.0
-3382,399,2022-06-17 18:36:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Female,31.0
-3532,688,2022-06-15 18:29:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,,Undisclosed,20.0
+3147,399,2022-06-17 18:32:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Female,31.0
+3382,399,2022-06-17 18:36:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Female,31.0
+3382,399,2022-06-17 18:36:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Female,31.0
+3532,688,2022-06-15 18:29:00,Transportation,Ride Coordination,Organization 104,Jefferson County,KY,40202.0,Undisclosed,20.0
 2096,1084,2022-06-01 21:59:00,Money Management,Financial Counseling,Organization 109,Jefferson County,KY,40258,Female,16.0
 1605,915,2022-06-08 14:43:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 113,Jefferson County,KY,40218,Undisclosed,26.0
 1622,639,2022-06-16 17:49:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 113,Jefferson County,KY,40218,Female,61.0
@@ -113,7 +113,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3290,459,2022-01-20 21:06:00,Housing & Shelter,Permanent Housing,Organization 129,Jefferson County,KY,,Male,43.0
 3301,87,2022-06-29 15:16:00,Utilities,Utility Bill Payment Assistance,Organization 132,Jefferson County,KY,40220,Male,29.0
 1630,75,2022-06-14 17:19:00,Benefits Navigation,Immigration Services,Organization 134,Jefferson County,KY,40202,Male,0.0
-1686,746,2022-06-14 17:17:00,Benefits Navigation,Immigration Services,Organization 134,Jefferson County,KY,,Female,49.0
+1686,746,2022-06-14 17:17:00,Benefits Navigation,Immigration Services,Organization 134,Jefferson County,KY,40205.0,Female,49.0
 1821,44,2022-06-30 17:18:00,Individual & Family Support,Social Service Case Management,Organization 134,Jefferson County,KY,40202,Female,71.0
 1962,49,2022-06-30 17:10:00,Food Assistance,Emergency Food,Organization 134,Jefferson County,KY,40207,Male,63.0
 2235,743,2022-06-14 17:24:00,Transportation,Ride Coordination,Organization 134,Jefferson County,KY,40202,Female,82.0
@@ -156,8 +156,8 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 1577,297,2022-05-23 16:16:00,,,Organization 138,Jefferson County,KY,40203,Undisclosed,23.0
 1595,691,2022-06-15 15:39:00,Employment,Job Training,Organization 138,Shelby County,KY,40065,Undisclosed,36.0
 1603,564,2022-06-14 19:11:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40216,Undisclosed,57.0
-1625,579,2022-06-21 14:13:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,,,
-1639,514,2022-06-22 20:21:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,,,
+1625,579,2022-06-21 14:13:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40202.0,,
+1639,514,2022-06-22 20:21:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40202.0,,
 1650,301,2022-06-16 14:55:00,Education,Computer/Technology Classes,Organization 138,Jefferson County,KY,40228,Undisclosed,24.0
 1652,352,2022-06-13 18:06:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40241,Undisclosed,59.0
 1676,451,2022-06-23 19:09:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,40210,Undisclosed,17.0
@@ -169,7 +169,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 1725,451,2022-06-23 19:08:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,40210,Undisclosed,17.0
 1725,451,2022-06-23 19:08:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,40210,Undisclosed,17.0
 1725,451,2022-06-15 18:53:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,40210,Undisclosed,17.0
-1730,831,2022-06-10 17:12:00,Employment,Job Training,Organization 138,Jefferson County,KY,,,
+1730,831,2022-06-10 17:12:00,Employment,Job Training,Organization 138,Jefferson County,KY,40202.0,,
 1764,610,2022-06-16 16:38:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40202,Undisclosed,52.0
 1768,702,2022-06-09 14:56:00,Employment,Job Training,Organization 138,Jefferson County,KY,40214,Undisclosed,38.0
 1779,825,2022-06-08 19:21:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40241,Undisclosed,22.0
@@ -180,15 +180,15 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 1862,909,2022-06-07 12:14:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40071,Undisclosed,31.0
 1874,1018,2022-05-19 16:44:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40210,Undisclosed,22.0
 1874,1018,2022-05-19 16:44:00,,,Organization 138,Jefferson County,KY,40210,Undisclosed,22.0
-1875,408,2022-06-24 16:05:00,Employment,Job Training,Organization 138,Jefferson County,KY,,,
+1875,408,2022-06-24 16:05:00,Employment,Job Training,Organization 138,Jefferson County,KY,40202.0,,
 1891,789,2022-06-06 15:06:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40245,Undisclosed,54.0
 1898,695,2022-06-15 15:22:00,Employment,Job Training,Organization 138,Jefferson County,KY,40272,Undisclosed,32.0
 1903,449,2022-06-21 17:22:00,Employment,Job Training,Organization 138,Jefferson County,KY,40206,Undisclosed,30.0
 1920,103,2022-06-29 13:38:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,40211,Female,32.0
-1937,1055,2022-06-01 19:35:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,,Undisclosed,51.0
+1937,1055,2022-06-01 19:35:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,40202.0,Undisclosed,51.0
 2055,109,2022-06-23 16:46:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,40211,Undisclosed,26.0
 2063,350,2022-06-01 16:05:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40220,Undisclosed,67.0
-2107,493,2022-06-23 14:54:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,,,
+2107,493,2022-06-23 14:54:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40202.0,,
 2123,424,2022-05-23 19:41:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40031,Undisclosed,28.0
 2137,792,2022-06-13 15:14:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40217,Undisclosed,69.0
 2137,792,2022-06-13 15:14:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40217,Undisclosed,69.0
@@ -205,14 +205,14 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 2208,108,2022-06-27 17:21:00,Food Assistance,SNAP/WIC/Other Nutrition Benefits,Organization 138,Jefferson County,KY,40204,Undisclosed,20.0
 2208,108,2022-06-27 17:08:00,Food Assistance,SNAP/WIC/Other Nutrition Benefits,Organization 138,Jefferson County,KY,40204,Undisclosed,20.0
 2215,697,2022-06-01 15:49:00,Individual & Family Support,Child Care,Organization 138,Jefferson County,KY,40210,Undisclosed,24.0
-2231,934,2022-06-03 18:29:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,,Undisclosed,30.0
+2231,934,2022-06-03 18:29:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40202.0,Undisclosed,30.0
 2236,825,2022-06-08 19:23:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40241,Undisclosed,22.0
 2280,764,2022-06-14 12:25:00,Employment,Job Training,Organization 138,Jefferson County,KY,40272,Undisclosed,44.0
 2280,764,2022-06-14 12:25:00,Employment,Job Training,Organization 138,Jefferson County,KY,40272,Undisclosed,44.0
 2280,764,2022-06-03 16:49:00,Employment,Job Training,Organization 138,Jefferson County,KY,40272,Undisclosed,44.0
 2296,33,2022-06-30 19:06:00,Employment,Career Skills Development,Organization 138,Jefferson County,KY,40214,Undisclosed,17.0
 2303,785,2022-06-06 19:45:00,Employment,Job Training,Organization 138,Jefferson County,KY,40150,Undisclosed,30.0
-2304,980,2022-06-06 19:04:00,Employment,Job Training,Organization 138,Jefferson County,KY,,,
+2304,980,2022-06-06 19:04:00,Employment,Job Training,Organization 138,Jefferson County,KY,40202.0,,
 2307,696,2022-06-13 20:06:00,Employment,Job Training,Organization 138,Jefferson County,KY,40208,Undisclosed,22.0
 2318,242,2022-05-23 20:34:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40216,Undisclosed,27.0
 2343,496,2022-06-23 14:32:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40215,Undisclosed,62.0
@@ -225,10 +225,10 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 2403,691,2022-06-15 15:37:00,Employment,Job Training,Organization 138,Shelby County,KY,40065,Undisclosed,36.0
 2403,691,2022-06-15 15:37:00,Employment,Job Training,Organization 138,Shelby County,KY,40065,Undisclosed,36.0
 2403,691,2022-06-15 15:32:00,Employment,Job Training,Organization 138,Shelby County,KY,40065,Undisclosed,36.0
-2439,578,2022-06-03 15:11:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,,Undisclosed,34.0
-2439,578,2022-06-03 15:11:00,,,Organization 138,Jefferson County,KY,,Undisclosed,34.0
-2445,575,2022-06-21 15:14:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,,,
-2446,867,2022-06-09 16:51:00,Employment,Job Training,Organization 138,Jefferson County,KY,,,
+2439,578,2022-06-03 15:11:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40202.0,Undisclosed,34.0
+2439,578,2022-06-03 15:11:00,,,Organization 138,Jefferson County,KY,40202.0,Undisclosed,34.0
+2445,575,2022-06-21 15:14:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40202.0,,
+2446,867,2022-06-09 16:51:00,Employment,Job Training,Organization 138,Jefferson County,KY,40202.0,,
 2479,700,2022-06-03 19:02:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40291,Undisclosed,47.0
 2486,104,2022-06-29 13:28:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,40211,Undisclosed,29.0
 2530,450,2022-06-17 18:03:00,Employment,Job Training,Organization 138,Jefferson County,KY,40207,Undisclosed,33.0
@@ -239,28 +239,28 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 2580,557,2022-06-21 18:19:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40220,Undisclosed,61.0
 2586,352,2022-06-14 12:17:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40241,Undisclosed,59.0
 2587,825,2022-06-08 19:20:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40241,Undisclosed,22.0
-2588,375,2022-06-13 16:07:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,,,
-2588,375,2022-06-13 16:07:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,,,
+2588,375,2022-06-13 16:07:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40202.0,,
+2588,375,2022-06-13 16:07:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40202.0,,
 2613,576,2022-06-21 15:02:00,Education,Tuition Assistance,Organization 138,Jefferson County,KY,40214,Undisclosed,48.0
 2625,863,2022-06-03 14:50:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40047,Undisclosed,63.0
 2648,275,2022-06-28 15:30:00,Employment,Job Training,Organization 138,Jefferson County,KY,40211,Undisclosed,31.0
-2666,948,2022-06-07 15:55:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,,,
+2666,948,2022-06-07 15:55:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40202.0,,
 2668,1016,2022-05-25 14:12:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40217,Undisclosed,33.0
-2673,868,2022-06-09 15:51:00,Employment,Job Training,Organization 138,Jefferson County,KY,,,
+2673,868,2022-06-09 15:51:00,Employment,Job Training,Organization 138,Jefferson County,KY,40202.0,,
 2698,719,2022-06-15 13:14:00,Employment,Career Skills Development,Organization 138,Jefferson County,KY,40203,Undisclosed,25.0
 2718,808,2022-05-25 18:41:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40208,Undisclosed,21.0
 2718,808,2022-05-25 18:41:00,,,Organization 138,Jefferson County,KY,40208,Undisclosed,21.0
-2768,554,2022-06-21 19:38:00,Employment,Job Training,Organization 138,Jefferson County,KY,,,
+2768,554,2022-06-21 19:38:00,Employment,Job Training,Organization 138,Jefferson County,KY,40202.0,,
 2795,864,2022-06-09 16:39:00,Employment,Job Search/Placement,Organization 138,Bullitt County,KY,40165,Undisclosed,54.0
 2799,793,2022-06-13 15:50:00,Employment,Job Training,Organization 138,Jefferson County,KY,40150,Undisclosed,38.0
 2809,443,2022-06-21 17:32:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40203,Undisclosed,38.0
-2814,147,2022-06-29 19:00:00,Employment,Job Training,Organization 138,Jefferson County,KY,,,
+2814,147,2022-06-29 19:00:00,Employment,Job Training,Organization 138,Jefferson County,KY,40202.0,,
 2843,248,2022-04-26 19:27:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,40216,Undisclosed,16.0
 2859,611,2022-06-15 20:22:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40206,Undisclosed,66.0
 2865,798,2022-06-10 20:14:00,Employment,Job Training,Organization 138,Jefferson County,KY,40214,Undisclosed,20.0
 2865,798,2022-06-10 20:13:00,Employment,Job Training,Organization 138,Jefferson County,KY,40214,Undisclosed,20.0
 2865,798,2022-06-07 16:02:00,Employment,Job Training,Organization 138,Jefferson County,KY,40214,Undisclosed,20.0
-2870,898,2022-06-08 17:33:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,,,
+2870,898,2022-06-08 17:33:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,40202.0,,
 2876,1090,2022-06-01 16:17:00,Employment,Job Training,Organization 138,Shelby County,KY,40065,Undisclosed,24.0
 2880,797,2022-06-10 19:12:00,Employment,Job Training,Organization 138,Jefferson County,KY,40216,Undisclosed,22.0
 2880,797,2022-06-10 19:11:00,Employment,Job Training,Organization 138,Jefferson County,KY,40216,Undisclosed,22.0
@@ -285,11 +285,11 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3135,725,2022-06-14 15:47:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40216,Undisclosed,56.0
 3174,258,2022-06-21 20:37:00,Employment,Job Training,Organization 138,Jefferson County,KY,40220,Undisclosed,52.0
 3190,824,2022-06-08 19:42:00,Employment,Career Skills Development,Organization 138,Jefferson County,KY,40212,Undisclosed,37.0
-3191,868,2022-06-09 15:53:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,,,
+3191,868,2022-06-09 15:53:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40202.0,,
 3195,350,2022-06-15 17:57:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40220,Undisclosed,67.0
 3205,391,2022-06-13 16:32:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40228,Undisclosed,58.0
-3211,652,2022-06-03 16:41:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,,,
-3211,652,2022-06-03 16:41:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,,,
+3211,652,2022-06-03 16:41:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,40202.0,,
+3211,652,2022-06-03 16:41:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,40202.0,,
 3220,243,2022-02-17 20:33:00,Employment,Job Training,Organization 138,Jefferson County,KY,40206,Undisclosed,59.0
 3223,100,2022-06-30 14:17:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,40291,Undisclosed,25.0
 3240,778,2022-06-09 17:11:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40203,Undisclosed,62.0
@@ -299,7 +299,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3283,719,2022-05-27 16:52:00,,,Organization 138,Jefferson County,KY,40203,Undisclosed,25.0
 3339,106,2022-06-16 18:22:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40272,Undisclosed,39.0
 3350,116,2022-06-21 17:37:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40299,Undisclosed,20.0
-3352,1055,2022-06-01 19:34:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,,Undisclosed,51.0
+3352,1055,2022-06-01 19:34:00,Education,Educational Support Services,Organization 138,Jefferson County,KY,40202.0,Undisclosed,51.0
 3363,470,2022-06-23 17:14:00,Employment,Job Training,Organization 138,Jefferson County,KY,40258,Undisclosed,29.0
 3368,564,2022-06-21 16:02:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 138,Jefferson County,KY,40216,Undisclosed,57.0
 3373,701,2022-06-09 15:28:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40258,Undisclosed,54.0
@@ -309,19 +309,19 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3395,258,2022-06-28 16:47:00,Entrepreneurship,,Organization 138,Jefferson County,KY,40220,Undisclosed,52.0
 3398,727,2022-06-14 16:51:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40211,Undisclosed,24.0
 3423,302,2022-06-17 16:34:00,Employment,Career Skills Development,Organization 138,Jefferson County,KY,40216,Undisclosed,42.0
-3463,807,2022-05-09 19:58:00,Employment,Career Skills Development,Organization 138,Jefferson County,KY,,Undisclosed,17.0
-3463,807,2022-05-09 19:58:00,,,Organization 138,Jefferson County,KY,,Undisclosed,17.0
+3463,807,2022-05-09 19:58:00,Employment,Career Skills Development,Organization 138,Jefferson County,KY,40202.0,Undisclosed,17.0
+3463,807,2022-05-09 19:58:00,,,Organization 138,Jefferson County,KY,40202.0,Undisclosed,17.0
 3471,778,2022-06-09 17:06:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40203,Undisclosed,62.0
 3471,778,2022-06-09 17:06:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40203,Undisclosed,62.0
 3471,778,2022-06-03 15:51:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40203,Undisclosed,62.0
-3483,1105,2022-06-01 14:14:00,Employment,Job Training,Organization 138,Jefferson County,KY,,Undisclosed,55.0
+3483,1105,2022-06-01 14:14:00,Employment,Job Training,Organization 138,Jefferson County,KY,40202.0,Undisclosed,55.0
 3484,364,2022-06-27 15:05:00,Education,Degrees/Certifications,Organization 138,Jefferson County,KY,40210,Undisclosed,39.0
 3500,701,2022-06-09 15:29:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40258,Undisclosed,54.0
 3515,977,2022-06-06 20:01:00,Employment,Job Training,Organization 138,Fayette County,KY,40502,Undisclosed,37.0
 3527,108,2022-06-27 17:14:00,Employment,Career Skills Development,Organization 138,Jefferson County,KY,40204,Undisclosed,20.0
 3530,719,2022-06-01 18:41:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40203,Undisclosed,25.0
 3590,351,2022-06-14 17:57:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40216,Undisclosed,58.0
-3616,319,2022-06-27 20:27:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,,,
+3616,319,2022-06-27 20:27:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40202.0,,
 3619,777,2022-06-13 16:24:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40291,Undisclosed,33.0
 3655,451,2022-06-23 19:07:00,Education,Degrees/Certifications,Organization 138,Jefferson County,KY,40210,Undisclosed,17.0
 3706,351,2022-06-14 18:01:00,Employment,Job Search/Placement,Organization 138,Jefferson County,KY,40216,Undisclosed,58.0
@@ -332,7 +332,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 2939,110,2022-06-30 13:58:00,Education,Educational Support Services,Organization 140,Jefferson County,KY,40219,Undisclosed,37.0
 2974,839,2022-06-10 15:28:00,Education,Educational Support Services,Organization 140,Jefferson County,KY,40211,Undisclosed,51.0
 3068,106,2022-06-30 14:03:00,Education,Educational Support Services,Organization 140,Jefferson County,KY,40272,Undisclosed,39.0
-3352,1055,2022-06-02 16:37:00,Education,Educational Support Services,Organization 140,Jefferson County,KY,,Undisclosed,51.0
+3352,1055,2022-06-02 16:37:00,Education,Educational Support Services,Organization 140,Jefferson County,KY,40202.0,Undisclosed,51.0
 3527,108,2022-06-30 14:02:00,Employment,Career Skills Development,Organization 140,Jefferson County,KY,40204,Undisclosed,20.0
 2152,10,2022-06-16 17:43:00,Benefits Navigation,ID/Documentation Assistance,Organization 142,Bullitt County,KY,40165,Female,46.0
 2152,10,2022-06-16 17:43:00,,,Organization 142,Bullitt County,KY,40165,Female,46.0
@@ -340,7 +340,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3246,10,2022-06-16 17:43:00,,,Organization 142,Bullitt County,KY,40165,Female,46.0
 3353,10,2022-06-30 17:46:00,Housing & Shelter,Emergency Housing,Organization 142,Bullitt County,KY,40165,Female,46.0
 3353,10,2022-06-23 14:42:00,Housing & Shelter,Emergency Housing,Organization 142,Bullitt County,KY,40165,Female,46.0
-3645,865,2022-06-09 17:06:00,Employment,Job Search/Placement,Organization 142,Bullitt County,KY,,Undisclosed,31.0
+3645,865,2022-06-09 17:06:00,Employment,Job Search/Placement,Organization 142,Bullitt County,KY,40165.0,Undisclosed,31.0
 1595,691,2022-06-15 17:39:00,Employment,Job Training,Organization 142,Shelby County,KY,40065,Undisclosed,36.0
 1832,429,2022-06-24 13:51:00,Employment,Job Training,Organization 142,Bullitt County,KY,40165,Undisclosed,43.0
 1834,692,2022-06-15 16:37:00,Benefits Navigation,Health Insurance/Benefits,Organization 142,Bullitt County,KY,40165,Undisclosed,28.0
@@ -1594,13 +1594,13 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3698,525,2022-06-22 17:51:00,Housing & Shelter,Transitional Housing,Organization 158,Jefferson County,KY,40208,Male,59.0
 3699,660,2022-06-14 12:23:00,Utilities,Utility Bill Payment Assistance,Organization 158,Jefferson County,KY,40219,Female,55.0
 3700,631,2022-06-15 13:28:00,Food Assistance,Emergency Food,Organization 158,Jefferson County,KY,40272,Male,74.0
-2485,167,2022-06-06 18:18:00,,,Organization 160,Jefferson County,KY,,Female,59.0
-2662,167,2022-06-06 18:18:00,Housing & Shelter,Housing Mediation & Eviction Prevention,Organization 160,Jefferson County,KY,,Female,59.0
+2485,167,2022-06-06 18:18:00,,,Organization 160,Jefferson County,KY,40202.0,Female,59.0
+2662,167,2022-06-06 18:18:00,Housing & Shelter,Housing Mediation & Eviction Prevention,Organization 160,Jefferson County,KY,40202.0,Female,59.0
 2785,974,2022-06-06 17:53:00,,,Organization 160,Jefferson County,KY,40213,Female,52.0
 2999,974,2022-06-06 17:53:00,,,Organization 160,Jefferson County,KY,40213,Female,52.0
-3255,167,2022-06-06 18:18:00,,,Organization 160,Jefferson County,KY,,Female,59.0
-3270,167,2022-06-06 18:18:00,Housing & Shelter,Permanent Housing,Organization 160,Jefferson County,KY,,Female,59.0
-3270,167,2022-06-06 18:18:00,,,Organization 160,Jefferson County,KY,,Female,59.0
+3255,167,2022-06-06 18:18:00,,,Organization 160,Jefferson County,KY,40202.0,Female,59.0
+3270,167,2022-06-06 18:18:00,Housing & Shelter,Permanent Housing,Organization 160,Jefferson County,KY,40202.0,Female,59.0
+3270,167,2022-06-06 18:18:00,,,Organization 160,Jefferson County,KY,40202.0,Female,59.0
 3392,465,2021-10-21 14:15:00,Clothing & Household Goods,,Organization 160,Jefferson County,KY,40214,Female,24.0
 1504,21,2022-06-30 20:17:00,Wellness,Nutrition Education,Organization 164,Jefferson County,KY,40214,Undisclosed,21.0
 1550,208,2022-06-01 19:23:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40219,Female,39.0
@@ -1655,48 +1655,48 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3326,11,2022-06-30 20:40:00,Wellness,Nutrition Education,Organization 164,Jefferson County,KY,40210,Undisclosed,33.0
 3360,23,2022-06-30 20:10:00,Wellness,Nutrition Education,Organization 164,Jefferson County,KY,40272,Undisclosed,22.0
 3366,208,2022-06-21 15:09:00,Transportation,Ride Coordination,Organization 164,Jefferson County,KY,40219,Female,39.0
-3375,522,2022-03-01 13:48:00,Individual & Family Support,Social Service Case Management,Organization 164,Jefferson County,KY,,Undisclosed,26.0
+3375,522,2022-03-01 13:48:00,Individual & Family Support,Social Service Case Management,Organization 164,Jefferson County,KY,40202.0,Undisclosed,26.0
 3406,20,2022-06-30 20:21:00,Wellness,Nutrition Education,Organization 164,Jefferson County,KY,40216,Undisclosed,34.0
 3443,224,2022-06-28 13:30:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40210,Undisclosed,36.0
 3478,817,2022-06-10 20:17:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40291,Undisclosed,26.0
 3501,222,2022-06-27 20:05:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40215,Undisclosed,22.0
 3513,22,2022-06-30 20:13:00,Wellness,Nutrition Education,Organization 164,Jefferson County,KY,40258,Undisclosed,34.0
 3519,781,2022-06-13 18:09:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40219,Female,25.0
-3541,677,2022-06-15 16:42:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,,Undisclosed,31.0
+3541,677,2022-06-15 16:42:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40202.0,Undisclosed,31.0
 3659,894,2022-06-07 20:24:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40220,Undisclosed,26.0
 3670,15,2022-06-30 20:28:00,Wellness,Nutrition Education,Organization 164,Jefferson County,KY,40211,Undisclosed,33.0
 3687,607,2022-06-17 20:32:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40211,Undisclosed,35.0
 3704,970,2022-06-03 13:22:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40218,Female,21.0
-1505,1044,2022-06-03 13:13:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,,,
+1505,1044,2022-06-03 13:13:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40202.0,,
 1579,226,2022-06-28 17:30:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40213,Undisclosed,19.0
 1847,971,2022-06-06 18:35:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40210,Undisclosed,25.0
-1894,1043,2022-06-03 13:18:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,,,
+1894,1043,2022-06-03 13:18:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40202.0,,
 2116,895,2022-06-08 14:12:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40212,Undisclosed,31.0
 2120,1070,2022-06-01 16:12:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40217,Undisclosed,41.0
-2259,371,2022-06-27 14:42:00,Wellness,Nutrition Education,Organization 164,Jefferson County,KY,,,
+2259,371,2022-06-27 14:42:00,Wellness,Nutrition Education,Organization 164,Jefferson County,KY,40202.0,,
 2288,215,2022-06-23 15:49:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40203,Undisclosed,20.0
-2350,803,2022-06-13 16:21:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,,,
+2350,803,2022-06-13 16:21:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40202.0,,
 2437,676,2022-06-15 15:57:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40202,Undisclosed,34.0
 2496,1021,2022-06-03 15:32:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40211,Undisclosed,32.0
 2566,1074,2022-06-02 15:52:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40215,Undisclosed,28.0
 2571,214,2022-06-22 14:01:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40210,Undisclosed,28.0
-2754,889,2022-06-08 19:39:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,,,
+2754,889,2022-06-08 19:39:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40202.0,,
 2762,225,2022-06-28 16:51:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40208,Undisclosed,22.0
-2910,886,2022-06-08 20:28:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,,,
+2910,886,2022-06-08 20:28:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40202.0,,
 2972,211,2022-06-21 18:23:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40212,Undisclosed,16.0
 3008,80,2022-06-29 15:20:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40229,Undisclosed,21.0
 3092,782,2022-06-13 18:46:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40208,Undisclosed,39.0
 3164,209,2022-06-21 14:56:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40207,Undisclosed,30.0
-3183,1046,2022-06-02 18:11:00,Wellness,Nutrition Education,Organization 164,Jefferson County,KY,,Female,29.0
+3183,1046,2022-06-02 18:11:00,Wellness,Nutrition Education,Organization 164,Jefferson County,KY,40202.0,Female,29.0
 3207,635,2022-06-16 17:45:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40212,Undisclosed,29.0
 3247,219,2022-06-24 14:38:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40211,Undisclosed,20.0
-3262,1041,2022-06-03 13:26:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,,,
+3262,1041,2022-06-03 13:26:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40202.0,,
 3274,82,2022-06-30 15:16:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40218,Undisclosed,37.0
 3336,990,2022-06-06 16:21:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40218,Undisclosed,31.0
-3458,900,2022-06-08 17:21:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,,,
-3542,901,2022-06-08 17:17:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,,,
+3458,900,2022-06-08 17:21:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40202.0,,
+3542,901,2022-06-08 17:17:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40202.0,,
 3572,813,2022-06-10 16:07:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40212,Undisclosed,25.0
-3701,1040,2022-06-03 13:31:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,,,
+3701,1040,2022-06-03 13:31:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40202.0,,
 3705,783,2022-06-13 15:26:00,Individual & Family Support,Peer Support,Organization 164,Jefferson County,KY,40211,Undisclosed,28.0
 1550,208,2022-06-29 12:39:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40219,Female,39.0
 1572,816,2022-06-13 12:34:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40216,Undisclosed,20.0
@@ -1753,7 +1753,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3478,817,2022-06-13 12:32:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40291,Undisclosed,26.0
 3501,222,2022-06-29 12:24:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40215,Undisclosed,22.0
 3519,781,2022-06-13 21:04:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40219,Female,25.0
-3541,677,2022-06-16 12:32:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,,Undisclosed,31.0
+3541,677,2022-06-16 12:32:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40202.0,Undisclosed,31.0
 3659,894,2022-06-08 18:17:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40220,Undisclosed,26.0
 3687,607,2022-06-18 00:48:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40211,Undisclosed,35.0
 3704,970,2022-06-07 02:53:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40218,Female,21.0
@@ -1774,7 +1774,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3008,80,2022-06-30 15:21:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40229,Undisclosed,21.0
 3092,782,2022-06-13 21:03:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40208,Undisclosed,39.0
 3164,209,2022-06-29 12:38:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40207,Undisclosed,30.0
-3183,1046,2022-06-03 12:17:00,Wellness,Nutrition Education,Organization 170,Jefferson County,KY,,Female,29.0
+3183,1046,2022-06-03 12:17:00,Wellness,Nutrition Education,Organization 170,Jefferson County,KY,40202.0,Female,29.0
 3207,635,2022-06-16 19:28:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40212,Undisclosed,29.0
 3247,219,2022-06-29 12:28:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40211,Undisclosed,20.0
 3274,82,2022-06-30 15:19:00,Individual & Family Support,Peer Support,Organization 170,Jefferson County,KY,40218,Undisclosed,37.0
@@ -1797,7 +1797,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 1551,347,2022-06-27 17:32:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40212,Male,57.0
 1554,395,2022-06-06 19:55:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40211,Female,19.0
 1562,384,2022-06-01 15:17:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40215,Female,23.0
-1568,140,2022-06-09 13:41:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Male,54.0
+1568,140,2022-06-09 13:41:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Male,54.0
 1569,176,2022-06-29 15:15:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40216,Female,21.0
 1570,207,2022-06-28 15:12:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40218,Female,19.0
 1573,402,2022-06-14 12:04:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40219,Female,38.0
@@ -1838,7 +1838,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 1743,117,2022-06-23 20:13:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40212,Male,18.0
 1744,810,2022-06-13 14:20:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40219,Male,19.0
 1752,113,2022-06-16 13:24:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40216,Undisclosed,18.0
-1757,376,2022-06-21 18:44:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,67.0
+1757,376,2022-06-21 18:44:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,67.0
 1760,118,2022-06-30 13:00:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40211,Undisclosed,22.0
 1763,588,2022-06-21 13:08:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40212,Undisclosed,67.0
 1769,124,2022-06-09 13:20:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40210,Male,24.0
@@ -2041,7 +2041,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 2912,862,2022-06-03 19:42:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40211,Female,18.0
 2914,646,2022-06-16 16:35:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40210,Female,20.0
 2919,748,2022-06-14 13:26:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40210,Undisclosed,53.0
-2920,105,2022-06-30 14:03:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Male,23.0
+2920,105,2022-06-30 14:03:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Male,23.0
 2922,101,2022-06-08 17:13:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40211,Male,41.0
 2929,583,2022-06-02 18:55:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40120,Male,23.0
 2930,114,2022-06-29 12:45:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40203,Male,21.0
@@ -2110,7 +2110,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3229,596,2022-06-20 19:52:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40219,Undisclosed,19.0
 3237,869,2022-06-09 15:47:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40118,Female,74.0
 3239,204,2022-06-27 14:51:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40212,Female,23.0
-3259,376,2022-06-27 13:26:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,67.0
+3259,376,2022-06-27 13:26:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,67.0
 3267,123,2022-06-30 12:36:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40216,Male,22.0
 3284,192,2022-06-29 15:10:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40216,Undisclosed,69.0
 3285,117,2022-06-29 17:33:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40212,Male,18.0
@@ -2122,7 +2122,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3354,176,2022-06-14 13:27:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40216,Female,21.0
 3355,177,2022-06-21 20:29:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40216,Female,22.0
 3357,181,2022-06-02 19:26:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40210,Female,29.0
-3365,105,2022-06-29 13:38:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Male,23.0
+3365,105,2022-06-29 13:38:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Male,23.0
 3366,208,2022-06-21 15:52:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40219,Female,39.0
 3370,144,2022-06-14 14:21:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40219,Female,21.0
 3372,114,2022-06-02 19:20:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40203,Male,21.0
@@ -2181,92 +2181,92 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3693,646,2022-06-08 15:38:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40210,Female,20.0
 3703,367,2022-06-21 13:16:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40203,Female,21.0
 3707,730,2022-06-14 20:39:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40203,Male,40.0
-1523,1077,2022-06-02 15:35:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,21.0
-1563,755,2022-06-14 14:17:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Male,19.0
+1523,1077,2022-06-02 15:35:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,21.0
+1563,755,2022-06-14 14:17:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Male,19.0
 1645,368,2022-06-16 12:56:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40216,Undisclosed,21.0
 1669,58,2022-06-29 19:50:00,Transportation,Ride Coordination,Organization 2,Clark County,IN,47130,Undisclosed,64.0
-1734,437,2022-06-08 15:13:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Female,20.0
+1734,437,2022-06-08 15:13:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Female,20.0
 1736,60,2022-06-14 12:46:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40203,Male,22.0
-1737,179,2022-06-16 12:55:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,19.0
+1737,179,2022-06-16 12:55:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,19.0
 1747,42,2022-06-30 17:30:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40216,Female,20.0
 1766,875,2022-06-09 13:36:00,Transportation,Ride Coordination,Organization 2,Clark County,IN,47111,Undisclosed,26.0
-1844,437,2022-06-01 22:35:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Female,20.0
+1844,437,2022-06-01 22:35:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Female,20.0
 1879,502,2022-06-15 12:55:00,Transportation,Ride Coordination,Organization 2,Clark County,IN,47177,Undisclosed,70.0
-1897,179,2022-06-29 15:16:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,19.0
-1900,567,2022-06-16 13:21:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,16.0
+1897,179,2022-06-29 15:16:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,19.0
+1900,567,2022-06-16 13:21:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,16.0
 1911,58,2022-06-09 13:26:00,Transportation,Ride Coordination,Organization 2,Clark County,IN,47130,Undisclosed,64.0
-1921,582,2022-06-21 13:21:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,17.0
-1947,179,2022-06-22 12:54:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,19.0
-1954,758,2022-06-14 13:47:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Female,28.0
-1957,435,2022-06-14 14:19:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Female,22.0
+1921,582,2022-06-21 13:21:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,17.0
+1947,179,2022-06-22 12:54:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,19.0
+1954,758,2022-06-14 13:47:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Female,28.0
+1957,435,2022-06-14 14:19:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Female,22.0
 1967,502,2022-06-23 14:01:00,Transportation,Ride Coordination,Organization 2,Clark County,IN,47177,Undisclosed,70.0
-1997,170,2022-06-21 13:47:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,21.0
+1997,170,2022-06-21 13:47:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,21.0
 2012,878,2022-06-09 13:30:00,Transportation,Ride Coordination,Organization 2,Clark County,IN,47130,Female,59.0
-2021,437,2022-06-15 12:20:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Female,20.0
-2024,563,2022-06-10 16:05:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Male,22.0
-2048,830,2022-06-10 17:39:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,20.0
-2070,581,2022-06-08 20:46:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,22.0
+2021,437,2022-06-15 12:20:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Female,20.0
+2024,563,2022-06-10 16:05:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Male,22.0
+2048,830,2022-06-10 17:39:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,20.0
+2070,581,2022-06-08 20:46:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,22.0
 2075,368,2022-06-27 14:48:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40216,Undisclosed,21.0
 2108,58,2022-06-21 15:53:00,Transportation,Ride Coordination,Organization 2,Clark County,IN,47130,Undisclosed,64.0
 2151,182,2022-06-24 18:23:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40203,Undisclosed,22.0
 2153,368,2022-06-23 20:14:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40216,Undisclosed,21.0
-2184,190,2022-06-29 15:10:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Female,17.0
+2184,190,2022-06-29 15:10:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Female,17.0
 2194,60,2022-06-14 14:24:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40203,Male,22.0
 2229,182,2022-06-15 12:44:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40203,Undisclosed,22.0
-2240,37,2022-06-30 18:14:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,18.0
-2254,379,2022-06-27 12:55:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Female,62.0
-2306,761,2022-06-14 13:26:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,22.0
-2325,196,2022-06-29 15:03:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,17.0
-2338,206,2022-06-27 12:41:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,18.0
+2240,37,2022-06-30 18:14:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,18.0
+2254,379,2022-06-27 12:55:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Female,62.0
+2306,761,2022-06-14 13:26:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,22.0
+2325,196,2022-06-29 15:03:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,17.0
+2338,206,2022-06-27 12:41:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,18.0
 2354,60,2022-06-15 12:53:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40203,Male,22.0
-2356,756,2022-06-14 14:12:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,21.0
-2363,437,2022-06-24 11:51:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Female,20.0
-2378,73,2022-06-30 16:00:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,18.0
+2356,756,2022-06-14 14:12:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,21.0
+2363,437,2022-06-24 11:51:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Female,20.0
+2378,73,2022-06-30 16:00:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,18.0
 2385,60,2022-06-15 12:52:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40203,Male,22.0
 2447,182,2022-06-29 15:15:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40203,Undisclosed,22.0
-2460,546,2022-06-22 12:51:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Male,18.0
-2492,179,2022-06-15 14:48:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,19.0
+2460,546,2022-06-22 12:51:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Male,18.0
+2492,179,2022-06-15 14:48:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,19.0
 2505,182,2022-06-16 17:21:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40203,Undisclosed,22.0
-2516,761,2022-06-13 12:49:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,22.0
+2516,761,2022-06-13 12:49:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,22.0
 2553,368,2022-06-24 17:56:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40216,Undisclosed,21.0
-2575,170,2022-06-29 16:19:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,21.0
-2591,437,2022-06-10 13:32:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Female,20.0
-2695,170,2022-06-16 13:01:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,21.0
-2780,546,2022-06-16 17:23:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Male,18.0
-2853,546,2022-06-21 13:02:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Male,18.0
+2575,170,2022-06-29 16:19:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,21.0
+2591,437,2022-06-10 13:32:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Female,20.0
+2695,170,2022-06-16 13:01:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,21.0
+2780,546,2022-06-16 17:23:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Male,18.0
+2853,546,2022-06-21 13:02:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Male,18.0
 2895,138,2022-06-09 13:25:00,Transportation,Ride Coordination,Organization 2,Clark County,IN,47130,Female,51.0
-2905,795,2022-06-13 17:26:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,18.0
-2923,435,2022-06-07 14:48:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Female,22.0
-2928,179,2022-06-21 13:05:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,19.0
-2940,206,2022-06-29 12:54:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,18.0
-2970,170,2022-06-27 14:51:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,21.0
-2991,1002,2022-06-06 12:19:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Female,63.0
+2905,795,2022-06-13 17:26:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,18.0
+2923,435,2022-06-07 14:48:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Female,22.0
+2928,179,2022-06-21 13:05:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,19.0
+2940,206,2022-06-29 12:54:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,18.0
+2970,170,2022-06-27 14:51:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,21.0
+2991,1002,2022-06-06 12:19:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Female,63.0
 3067,138,2022-06-29 19:50:00,Transportation,Ride Coordination,Organization 2,Clark County,IN,47130,Female,51.0
-3096,180,2022-06-29 15:16:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Male,26.0
-3101,180,2022-06-29 15:16:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Male,26.0
+3096,180,2022-06-29 15:16:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Male,26.0
+3101,180,2022-06-29 15:16:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Male,26.0
 3107,969,2022-06-07 12:04:00,Transportation,Ride Coordination,Organization 2,Clark County,KY,47129,Undisclosed,53.0
-3147,399,2022-06-17 18:34:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Female,31.0
+3147,399,2022-06-17 18:34:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Female,31.0
 3186,878,2022-06-01 14:55:00,Transportation,Ride Coordination,Organization 2,Clark County,IN,47130,Female,59.0
-3187,581,2022-06-21 13:43:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,22.0
-3222,437,2022-06-13 14:27:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Female,20.0
-3225,581,2022-06-09 16:53:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,22.0
-3251,170,2022-06-29 15:18:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,21.0
-3275,179,2022-06-16 12:54:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,19.0
-3276,753,2022-06-14 14:19:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,19.0
+3187,581,2022-06-21 13:43:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,22.0
+3222,437,2022-06-13 14:27:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Female,20.0
+3225,581,2022-06-09 16:53:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,22.0
+3251,170,2022-06-29 15:18:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,21.0
+3275,179,2022-06-16 12:54:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,19.0
+3276,753,2022-06-14 14:19:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,19.0
 3279,516,2022-06-21 19:59:00,Transportation,Ride Coordination,Organization 2,Floyd County,IN,47150,Female,28.0
-3302,563,2022-06-16 14:48:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Male,22.0
-3304,179,2022-06-16 12:54:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,19.0
-3388,170,2022-06-29 12:46:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,21.0
-3448,170,2022-06-29 15:09:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,21.0
+3302,563,2022-06-16 14:48:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Male,22.0
+3304,179,2022-06-16 12:54:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,19.0
+3388,170,2022-06-29 12:46:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,21.0
+3448,170,2022-06-29 15:09:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,21.0
 3454,586,2022-06-21 13:18:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40203,Female,31.0
-3479,563,2022-06-09 13:43:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Male,22.0
-3505,546,2022-06-14 13:34:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Male,18.0
-3506,435,2022-06-24 13:19:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Female,22.0
-3532,688,2022-06-15 18:36:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,20.0
-3648,546,2022-06-14 13:35:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Male,18.0
+3479,563,2022-06-09 13:43:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Male,22.0
+3505,546,2022-06-14 13:34:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Male,18.0
+3506,435,2022-06-24 13:19:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Female,22.0
+3532,688,2022-06-15 18:36:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,20.0
+3648,546,2022-06-14 13:35:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Male,18.0
 3656,60,2022-06-14 14:22:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40203,Male,22.0
 3669,516,2022-06-22 19:43:00,Transportation,Ride Coordination,Organization 2,Floyd County,IN,47150,Female,28.0
-3690,28,2022-06-30 19:22:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,,Undisclosed,18.0
+3690,28,2022-06-30 19:22:00,Transportation,Ride Coordination,Organization 2,Jefferson County,KY,40202.0,Undisclosed,18.0
 2676,536,2022-06-22 15:26:00,Money Management,Financial Counseling,Organization 203,Jefferson County,KY,40202,Female,74.0
 1506,794,2022-06-10 20:20:00,Wellness,Wellness Expense Assistance,Organization 22,Laurel County,KY,40741,Female,50.0
 1539,921,2022-06-06 19:32:00,Food Assistance,Prepared Meals,Organization 22,Jessamine County,KY,40356,Female,14.0
@@ -2462,7 +2462,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 1977,982,2022-06-01 16:33:00,,,Organization 256,Jefferson County,KY,40229,Female,26.0
 1684,316,2022-06-06 16:33:00,Transportation,Transportation Passes/Vouchers,Organization 259,Jefferson County,KY,40223,Female,26.0
 1912,558,2022-06-15 19:53:00,Mental/Behavioral Health,Behavior Skills Training & Support,Organization 259,Jefferson County,KY,40220,Female,65.0
-3230,685,2022-01-12 20:56:00,Individual & Family Support,Social Service Case Management,Organization 259,Jefferson County,KY,,,
+3230,685,2022-01-12 20:56:00,Individual & Family Support,Social Service Case Management,Organization 259,Jefferson County,KY,40242.0,,
 2976,1089,2022-06-01 15:54:00,Benefits Navigation,Health Insurance/Benefits,Organization 261,Oldham County,KY,40056,Female,30.0
 3465,478,2022-06-14 17:59:00,Food Assistance,SNAP/WIC/Other Nutrition Benefits,Organization 261,Shelby County,KY,40003,Female,36.0
 3467,478,2022-06-21 21:20:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 261,Shelby County,KY,40003,Female,36.0
@@ -2627,7 +2627,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 2909,115,2022-06-30 12:58:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40213,Undisclosed,24.0
 2912,862,2022-06-03 19:40:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40211,Female,18.0
 2914,646,2022-06-16 16:32:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40210,Female,20.0
-2920,105,2022-06-30 13:57:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Male,23.0
+2920,105,2022-06-30 13:57:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Male,23.0
 2929,583,2022-06-01 20:10:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40120,Male,23.0
 2930,114,2022-06-29 12:36:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Male,21.0
 2931,124,2022-06-01 17:47:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40210,Male,24.0
@@ -2674,7 +2674,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3328,367,2022-06-14 12:31:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Female,21.0
 3348,176,2022-06-01 16:09:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40216,Female,21.0
 3354,176,2022-06-14 12:58:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40216,Female,21.0
-3365,105,2022-06-29 13:34:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Male,23.0
+3365,105,2022-06-29 13:34:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Male,23.0
 3367,407,2022-06-16 20:24:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40211,Male,20.0
 3367,407,2022-06-16 20:24:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40211,Male,20.0
 3370,144,2022-06-10 18:34:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40219,Female,21.0
@@ -2714,32 +2714,32 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3691,1042,2022-06-03 13:16:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40215,Male,24.0
 3693,646,2022-06-08 15:30:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40210,Female,20.0
 3703,367,2022-06-17 17:37:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Female,21.0
-1523,1077,2022-06-02 15:32:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,21.0
-1563,755,2022-06-10 15:57:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Male,19.0
+1523,1077,2022-06-02 15:32:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,21.0
+1563,755,2022-06-10 15:57:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Male,19.0
 1589,672,2022-06-16 13:03:00,Employment,Job Training,Organization 269,Jefferson County,KY,40212,Undisclosed,23.0
 1645,368,2022-06-16 12:41:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40216,Undisclosed,21.0
-1726,74,2022-06-30 15:56:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,18.0
-1734,437,2022-06-08 15:08:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Female,20.0
+1726,74,2022-06-30 15:56:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,18.0
+1734,437,2022-06-08 15:08:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Female,20.0
 1736,60,2022-06-14 12:30:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Male,22.0
-1737,179,2022-06-13 16:06:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,19.0
+1737,179,2022-06-13 16:06:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,19.0
 1747,42,2022-06-16 15:30:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40216,Female,20.0
 1755,60,2022-06-15 19:22:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Male,22.0
 1755,60,2022-06-15 19:22:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Male,22.0
 1825,673,2022-06-16 13:02:00,Employment,Job Search/Placement,Organization 269,Jefferson County,KY,40212,Undisclosed,20.0
-1844,437,2022-06-01 19:16:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Female,20.0
-1897,179,2022-06-23 13:15:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,19.0
-1900,567,2022-06-16 13:16:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,16.0
+1844,437,2022-06-01 19:16:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Female,20.0
+1897,179,2022-06-23 13:15:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,19.0
+1900,567,2022-06-16 13:16:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,16.0
 1924,671,2022-06-16 13:03:00,Employment,Job Training,Organization 269,Jefferson County,KY,40212,Undisclosed,19.0
-1947,179,2022-06-22 12:40:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,19.0
-1957,435,2022-06-10 17:06:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Female,22.0
-1997,170,2022-06-21 13:26:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,21.0
-2010,563,2022-06-21 17:35:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Male,22.0
-2014,170,2022-06-17 19:03:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,21.0
-2014,170,2022-06-17 19:03:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,21.0
-2021,437,2022-06-15 12:15:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Female,20.0
-2024,563,2022-06-10 16:00:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Male,22.0
-2048,830,2022-06-10 17:36:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,20.0
-2070,581,2022-06-08 20:39:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,22.0
+1947,179,2022-06-22 12:40:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,19.0
+1957,435,2022-06-10 17:06:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Female,22.0
+1997,170,2022-06-21 13:26:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,21.0
+2010,563,2022-06-21 17:35:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Male,22.0
+2014,170,2022-06-17 19:03:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,21.0
+2014,170,2022-06-17 19:03:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,21.0
+2021,437,2022-06-15 12:15:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Female,20.0
+2024,563,2022-06-10 16:00:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Male,22.0
+2048,830,2022-06-10 17:36:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,20.0
+2070,581,2022-06-08 20:39:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,22.0
 2075,368,2022-06-24 19:48:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40216,Undisclosed,21.0
 2151,182,2022-06-24 17:51:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Undisclosed,22.0
 2153,368,2022-06-23 20:10:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40216,Undisclosed,21.0
@@ -2747,57 +2747,57 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 2196,60,2022-06-15 18:46:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Male,22.0
 2196,60,2022-06-15 18:46:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Male,22.0
 2229,182,2022-06-15 12:41:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Undisclosed,22.0
-2240,37,2022-06-30 17:00:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,18.0
-2260,567,2022-06-21 17:14:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,16.0
-2325,196,2022-06-28 14:54:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,17.0
-2338,206,2022-06-27 12:29:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,18.0
+2240,37,2022-06-30 17:00:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,18.0
+2260,567,2022-06-21 17:14:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,16.0
+2325,196,2022-06-28 14:54:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,17.0
+2338,206,2022-06-27 12:29:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,18.0
 2354,60,2022-06-14 18:24:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Male,22.0
-2356,756,2022-06-09 17:36:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,21.0
-2363,437,2022-06-24 11:22:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Female,20.0
-2378,73,2022-06-30 15:58:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,18.0
+2356,756,2022-06-09 17:36:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,21.0
+2363,437,2022-06-24 11:22:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Female,20.0
+2378,73,2022-06-30 15:58:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,18.0
 2385,60,2022-06-15 12:45:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Male,22.0
 2447,182,2022-06-23 18:45:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Undisclosed,22.0
-2460,546,2022-06-22 12:42:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Male,18.0
-2492,179,2022-06-15 14:45:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,19.0
+2460,546,2022-06-22 12:42:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Male,18.0
+2492,179,2022-06-15 14:45:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,19.0
 2505,182,2022-06-16 17:17:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Undisclosed,22.0
 2553,368,2022-06-24 17:52:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40216,Undisclosed,21.0
-2575,170,2022-06-29 16:14:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,21.0
-2591,437,2022-06-10 12:48:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Female,20.0
-2695,170,2022-06-16 12:45:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,21.0
-2780,546,2022-06-16 17:18:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Male,18.0
-2853,546,2022-06-21 12:51:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Male,18.0
-2905,795,2022-06-13 17:24:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,18.0
-2923,435,2022-06-07 14:45:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Female,22.0
-2928,179,2022-06-21 12:52:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,19.0
-2940,206,2022-06-29 12:53:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,18.0
-2970,170,2022-06-27 13:09:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,21.0
+2575,170,2022-06-29 16:14:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,21.0
+2591,437,2022-06-10 12:48:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Female,20.0
+2695,170,2022-06-16 12:45:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,21.0
+2780,546,2022-06-16 17:18:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Male,18.0
+2853,546,2022-06-21 12:51:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Male,18.0
+2905,795,2022-06-13 17:24:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,18.0
+2923,435,2022-06-07 14:45:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Female,22.0
+2928,179,2022-06-21 12:52:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,19.0
+2940,206,2022-06-29 12:53:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,18.0
+2970,170,2022-06-27 13:09:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,21.0
 3003,60,2022-06-17 18:54:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Male,22.0
 3003,60,2022-06-17 18:54:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Male,22.0
 3080,112,2022-06-30 13:32:00,Employment,Job Search/Placement,Organization 269,Jefferson County,KY,40299,Undisclosed,21.0
 3125,60,2022-06-17 12:41:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Male,22.0
 3125,60,2022-06-17 12:41:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Male,22.0
-3187,581,2022-06-21 13:42:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,22.0
-3222,437,2022-06-13 12:18:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Female,20.0
-3225,581,2022-06-09 16:51:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,22.0
-3251,170,2022-06-22 18:38:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,21.0
-3275,179,2022-06-16 12:33:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,19.0
-3276,753,2022-06-10 16:42:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,19.0
-3302,563,2022-06-16 14:44:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Male,22.0
-3304,179,2022-06-13 16:09:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,19.0
-3342,1008,2022-06-03 19:49:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,,
+3187,581,2022-06-21 13:42:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,22.0
+3222,437,2022-06-13 12:18:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Female,20.0
+3225,581,2022-06-09 16:51:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,22.0
+3251,170,2022-06-22 18:38:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,21.0
+3275,179,2022-06-16 12:33:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,19.0
+3276,753,2022-06-10 16:42:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,19.0
+3302,563,2022-06-16 14:44:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Male,22.0
+3304,179,2022-06-13 16:09:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,19.0
+3342,1008,2022-06-03 19:49:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,,
 3350,116,2022-06-30 13:07:00,Employment,Job Search/Placement,Organization 269,Jefferson County,KY,40299,Undisclosed,20.0
-3388,170,2022-06-29 12:37:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,21.0
-3448,170,2022-06-28 12:36:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,21.0
-3479,563,2022-06-09 02:41:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Male,22.0
+3388,170,2022-06-29 12:37:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,21.0
+3448,170,2022-06-28 12:36:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,21.0
+3479,563,2022-06-09 02:41:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Male,22.0
 3496,670,2022-06-16 13:04:00,Employment,Job Training,Organization 269,Jefferson County,KY,40118,Undisclosed,22.0
-3505,546,2022-06-10 15:51:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Male,18.0
-3506,435,2022-06-24 13:10:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Female,22.0
-3608,170,2022-06-17 12:55:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,21.0
-3608,170,2022-06-17 12:55:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,21.0
-3621,73,2022-06-29 16:16:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,18.0
-3648,546,2022-06-14 13:30:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Male,18.0
+3505,546,2022-06-10 15:51:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Male,18.0
+3506,435,2022-06-24 13:10:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Female,22.0
+3608,170,2022-06-17 12:55:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,21.0
+3608,170,2022-06-17 12:55:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,21.0
+3621,73,2022-06-29 16:16:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,18.0
+3648,546,2022-06-14 13:30:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Male,18.0
 3656,60,2022-06-13 12:39:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203,Male,22.0
-3690,28,2022-06-30 19:19:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,,Undisclosed,18.0
+3690,28,2022-06-30 19:19:00,Transportation,Ride Coordination,Organization 269,Jefferson County,KY,40203.0,Undisclosed,18.0
 2131,250,2021-09-28 14:43:00,Education,Tuition Assistance,Organization 271,Jefferson County,KY,40214,Female,22.0
 2236,825,2022-06-08 21:06:00,Employment,Job Search/Placement,Organization 271,Jefferson County,KY,40241,Undisclosed,22.0
 1593,840,2022-06-03 15:04:00,Housing & Shelter,Permanent Housing,Organization 273,Jefferson County,KY,40211,Female,41.0
@@ -2810,10 +2810,10 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 2438,963,2022-06-06 18:56:00,Legal,Housing Law,Organization 291,Jefferson County,KY,40220,Female,27.0
 2932,848,2022-06-09 18:35:00,Legal,Expungements,Organization 291,Jefferson County,KY,40204,Female,36.0
 3313,92,2022-06-29 16:50:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 291,Jefferson County,KY,40215,Female,50.0
-1828,515,2022-06-22 20:01:00,Employment,Job Search/Placement,Organization 291,Jefferson County,KY,,,
-2308,85,2022-06-30 15:18:00,Physical Health,Medical Expense Assistance,Organization 291,Jefferson County,KY,,,
-2617,85,2022-06-30 15:18:00,Physical Health,Medical Equipment/Assistive Technology,Organization 291,Jefferson County,KY,,,
-3614,85,2022-06-30 15:18:00,Benefits Navigation,Health Insurance/Benefits,Organization 291,Jefferson County,KY,,,
+1828,515,2022-06-22 20:01:00,Employment,Job Search/Placement,Organization 291,Jefferson County,KY,40210.0,,
+2308,85,2022-06-30 15:18:00,Physical Health,Medical Expense Assistance,Organization 291,Jefferson County,KY,40210.0,,
+2617,85,2022-06-30 15:18:00,Physical Health,Medical Equipment/Assistive Technology,Organization 291,Jefferson County,KY,40210.0,,
+3614,85,2022-06-30 15:18:00,Benefits Navigation,Health Insurance/Benefits,Organization 291,Jefferson County,KY,40210.0,,
 2863,307,2022-06-21 14:46:00,Mental/Behavioral Health,Psychiatric Services,Organization 293,Jefferson County,KY,40202,Female,68.0
 3113,929,2022-06-08 13:26:00,Substance Use,Substance Use Treatment,Organization 293,Jefferson County,KY,40291,Male,64.0
 3160,336,2022-06-08 13:15:00,Mental/Behavioral Health,Mental Health Information/Education,Organization 293,Shelby County,KY,40065,Female,49.0
@@ -2833,7 +2833,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 1694,348,2022-06-20 14:32:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40216,Undisclosed,63.0
 1710,173,2022-06-22 13:40:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40216,Undisclosed,63.0
 1735,762,2022-06-14 13:07:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40204,Undisclosed,39.0
-1757,376,2022-06-21 18:36:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,,Undisclosed,67.0
+1757,376,2022-06-21 18:36:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40212.0,Undisclosed,67.0
 1760,118,2022-06-30 12:54:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40211,Undisclosed,22.0
 1763,588,2022-06-20 12:58:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40212,Undisclosed,67.0
 1802,748,2022-06-14 14:39:00,Utilities,Utility Bill Payment Assistance,Organization 295,Jefferson County,KY,40210,Undisclosed,53.0
@@ -2923,7 +2923,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3224,404,2022-06-02 20:10:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40202,Undisclosed,52.0
 3227,125,2022-06-09 14:41:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40203,Male,50.0
 3229,596,2022-06-20 19:50:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40219,Undisclosed,19.0
-3259,376,2022-06-27 13:11:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,,Undisclosed,67.0
+3259,376,2022-06-27 13:11:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40212.0,Undisclosed,67.0
 3284,192,2022-06-27 19:25:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40216,Undisclosed,69.0
 3289,412,2022-06-20 19:09:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40211,Undisclosed,41.0
 3357,181,2022-06-02 19:24:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40210,Female,29.0
@@ -2942,7 +2942,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3684,964,2022-06-07 12:59:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40211,Undisclosed,70.0
 3454,586,2022-06-20 13:05:00,Transportation,Ride Coordination,Organization 295,Jefferson County,KY,40203,Female,31.0
 3451,152,2020-09-11 13:19:00,Transportation,Ride Coordination,Organization 296,Jefferson County,KY,40215,Male,43.0
-3034,933,2022-06-01 14:59:00,Utilities,Utility Bill Payment Assistance,Organization 298,Jefferson County,KY,,Male,50.0
+3034,933,2022-06-01 14:59:00,Utilities,Utility Bill Payment Assistance,Organization 298,Jefferson County,KY,40216.0,Male,50.0
 3155,1106,2022-06-01 14:55:00,Food Assistance,Emergency Food,Organization 298,Jefferson County,KY,40216,Male,39.0
 3376,566,2022-06-21 17:19:00,Food Assistance,Emergency Food,Organization 298,Jefferson County,KY,40216,Female,67.0
 3368,564,2022-06-21 17:23:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 298,Jefferson County,KY,40216,Undisclosed,57.0
@@ -2969,19 +2969,19 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 1549,675,2022-06-15 15:19:00,Legal,Family Law,Organization 314,Jefferson County,KY,40206,Female,50.0
 1797,303,2022-04-27 20:28:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 314,Jefferson County,KY,40210,Female,51.0
 2079,149,2022-06-29 18:49:00,Mental/Behavioral Health,Supportive Therapies,Organization 314,Jefferson County,KY,40203,Male,47.0
-2126,933,2022-06-02 16:52:00,Housing & Shelter,Home Expense Assistance/Repairs,Organization 314,Jefferson County,KY,,Male,50.0
-2126,933,2022-06-02 16:52:00,Housing & Shelter,Home Expense Assistance/Repairs,Organization 314,Jefferson County,KY,,Male,50.0
+2126,933,2022-06-02 16:52:00,Housing & Shelter,Home Expense Assistance/Repairs,Organization 314,Jefferson County,KY,40211.0,Male,50.0
+2126,933,2022-06-02 16:52:00,Housing & Shelter,Home Expense Assistance/Repairs,Organization 314,Jefferson County,KY,40211.0,Male,50.0
 2218,675,2022-06-13 16:54:00,Employment,Job Training,Organization 314,Jefferson County,KY,40206,Female,50.0
 2250,425,2022-06-24 14:57:00,Employment,Job Training,Organization 314,Jefferson County,KY,40215,Undisclosed,36.0
 2292,151,2022-06-15 18:22:00,Food Assistance,Emergency Food,Organization 314,Fayette County,KY,40517,Female,43.0
-2349,703,2022-06-15 15:27:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 314,Jefferson County,KY,,Male,44.0
+2349,703,2022-06-15 15:27:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 314,Jefferson County,KY,40211.0,Male,44.0
 2374,253,2022-06-17 22:21:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40214,Female,27.0
 2455,675,2022-06-15 15:57:00,Legal,Family Law,Organization 314,Jefferson County,KY,40206,Female,50.0
 2455,675,2022-06-15 15:57:00,Legal,Family Law,Organization 314,Jefferson County,KY,40206,Female,50.0
 2534,822,2022-06-10 19:52:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40210,Female,39.0
 2764,625,2022-06-16 15:03:00,Legal,Expungements,Organization 314,Jefferson County,KY,40207,Undisclosed,53.0
 2891,165,2022-06-29 16:43:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 314,Jefferson County,KY,40203,Male,45.0
-3034,933,2022-06-01 13:38:00,Utilities,Utility Bill Payment Assistance,Organization 314,Jefferson County,KY,,Male,50.0
+3034,933,2022-06-01 13:38:00,Utilities,Utility Bill Payment Assistance,Organization 314,Jefferson County,KY,40211.0,Male,50.0
 3098,866,2022-06-09 16:58:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40202,Male,24.0
 3104,608,2022-06-17 22:33:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40215,Undisclosed,25.0
 3131,151,2022-06-15 18:22:00,Housing & Shelter,Emergency Housing,Organization 314,Fayette County,KY,40517,Female,43.0
@@ -2998,12 +2998,12 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 1891,789,2022-06-08 20:53:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40245,Undisclosed,54.0
 1898,695,2022-06-15 16:14:00,Employment,Job Training,Organization 314,Jefferson County,KY,40272,Undisclosed,32.0
 1903,449,2022-06-23 19:23:00,Employment,Job Training,Organization 314,Jefferson County,KY,40206,Undisclosed,30.0
-1937,1055,2022-06-02 19:10:00,Education,Educational Support Services,Organization 314,Jefferson County,KY,,Undisclosed,51.0
+1937,1055,2022-06-02 19:10:00,Education,Educational Support Services,Organization 314,Jefferson County,KY,40211.0,Undisclosed,51.0
 2063,350,2022-06-01 16:12:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40220,Undisclosed,67.0
 2155,364,2022-06-15 16:27:00,Employment,Job Training,Organization 314,Jefferson County,KY,40210,Undisclosed,39.0
 2163,682,2022-06-15 20:42:00,Employment,Job Training,Organization 314,Jefferson County,KY,40216,Undisclosed,30.0
 2192,796,2022-06-13 17:05:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40207,Undisclosed,40.0
-2231,934,2022-06-07 20:38:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,,Undisclosed,30.0
+2231,934,2022-06-07 20:38:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40211.0,Undisclosed,30.0
 2307,696,2022-06-15 16:05:00,Employment,Job Training,Organization 314,Jefferson County,KY,40208,Undisclosed,22.0
 2368,777,2022-06-13 17:11:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40291,Undisclosed,33.0
 2479,700,2022-06-15 15:35:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40291,Undisclosed,47.0
@@ -3017,7 +3017,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 2880,797,2022-06-13 17:02:00,Employment,Job Training,Organization 314,Jefferson County,KY,40216,Undisclosed,22.0
 2889,609,2022-06-17 22:30:00,Employment,Job Training,Organization 314,Jefferson County,KY,40203,Undisclosed,34.0
 2902,1096,2022-06-01 17:21:00,Employment,Job Training,Organization 314,Jefferson County,KY,40228,Undisclosed,18.0
-2973,1051,2022-06-02 20:54:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,,Undisclosed,48.0
+2973,1051,2022-06-02 20:54:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40211.0,Undisclosed,48.0
 3063,718,2022-06-15 13:16:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40212,Undisclosed,53.0
 3076,698,2022-06-15 15:49:00,Employment,Job Training,Organization 314,Jefferson County,KY,40203,Undisclosed,35.0
 3108,724,2022-06-14 21:36:00,Education,Educational Support Services,Organization 314,Jefferson County,KY,40216,Undisclosed,23.0
@@ -3030,7 +3030,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3377,445,2022-06-23 19:57:00,Employment,Job Training,Organization 314,Jefferson County,KY,40241,Undisclosed,23.0
 3398,727,2022-06-14 20:58:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40211,Undisclosed,24.0
 3423,302,2022-06-17 22:36:00,Employment,Career Skills Development,Organization 314,Jefferson County,KY,40216,Undisclosed,42.0
-3483,1105,2022-06-01 14:57:00,Employment,Job Training,Organization 314,Jefferson County,KY,,Undisclosed,55.0
+3483,1105,2022-06-01 14:57:00,Employment,Job Training,Organization 314,Jefferson County,KY,40211.0,Undisclosed,55.0
 3490,1053,2022-06-02 20:44:00,Employment,Job Training,Organization 314,Jefferson County,KY,40272,Undisclosed,26.0
 3530,719,2022-06-02 19:17:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40203,Undisclosed,25.0
 3590,351,2022-06-14 20:55:00,Employment,Job Search/Placement,Organization 314,Jefferson County,KY,40216,Undisclosed,58.0
@@ -3068,7 +3068,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3546,913,2022-06-07 02:38:00,,,Organization 326,Jefferson County,KY,40229,Female,71.0
 3548,633,2022-06-07 00:52:00,,,Organization 326,Jefferson County,KY,40215,Undisclosed,30.0
 3626,292,2022-06-27 19:36:00,,,Organization 326,Jefferson County,KY,40291,Undisclosed,31.0
-2377,657,2022-06-16 15:16:00,Food Assistance,Emergency Food,Organization 326,Jefferson County,KY,,Undisclosed,35.0
+2377,657,2022-06-16 15:16:00,Food Assistance,Emergency Food,Organization 326,Jefferson County,KY,40208.0,Undisclosed,35.0
 1665,253,2022-06-16 23:04:00,Individual & Family Support,Social Service Case Management,Organization 331,Jefferson County,KY,40214,Female,27.0
 3075,241,2022-06-28 20:11:00,Mental/Behavioral Health,Youth Mental Health Services,Organization 331,Jefferson County,KY,40272,Female,18.0
 3526,809,2022-06-13 14:39:00,Mental/Behavioral Health,Youth Mental Health Services,Organization 331,Jefferson County,KY,40215,Female,47.0
@@ -3082,7 +3082,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3638,519,2022-06-10 14:50:00,Housing & Shelter,Emergency Housing,Organization 34,Jefferson County,KY,40208,Male,58.0
 3675,519,2022-05-27 15:34:00,,,Organization 34,Jefferson County,KY,40208,Male,58.0
 3584,153,2022-01-07 18:37:00,Housing & Shelter,Permanent Housing,Organization 340,Jefferson County,KY,40212,Male,44.0
-2826,984,2022-06-06 16:49:00,Clothing & Household Goods,,Organization 343,Jefferson County,KY,,,
+2826,984,2022-06-06 16:49:00,Clothing & Household Goods,,Organization 343,Jefferson County,KY,40202.0,,
 1863,659,2022-06-15 15:50:00,Social Enrichment,Youth Development,Organization 348,Jefferson County,KY,40217,Female,32.0
 1881,699,2022-06-15 15:48:00,Individual & Family Support,Parenting Education,Organization 348,Jefferson County,KY,40217,Female,23.0
 1531,603,2022-06-09 20:22:00,,,Organization 35,Jefferson County,KY,40217,Female,61.0
@@ -3141,27 +3141,27 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3534,189,2022-06-24 23:09:00,Food Assistance,Emergency Food,Organization 35,Jefferson County,KY,40206,Female,83.0
 3539,189,2022-06-24 23:09:00,,,Organization 35,Jefferson County,KY,40206,Female,83.0
 3547,488,2022-06-16 14:52:00,,,Organization 35,Jefferson County,KY,40220,Female,48.0
-3564,512,2022-04-28 20:37:00,Housing & Shelter,Emergency Housing,Organization 35,Jefferson County,KY,,Female,52.0
+3564,512,2022-04-28 20:37:00,Housing & Shelter,Emergency Housing,Organization 35,Jefferson County,KY,40223.0,Female,52.0
 3672,603,2022-06-09 20:22:00,,,Organization 35,Jefferson County,KY,40217,Female,61.0
 3702,432,2022-06-23 20:20:00,Transportation,Ride Coordination,Organization 35,Spencer County,KY,40071,Male,81.0
-1926,766,2022-06-13 22:22:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,,,
-2121,774,2022-06-13 22:09:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,,,
-2239,1050,2022-06-02 21:56:00,Employment,Job Search/Placement,Organization 356,Jefferson County,KY,,,
-2372,771,2022-06-13 22:18:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,,,
-2379,767,2022-06-13 22:21:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,,,
-2487,775,2022-06-13 22:08:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,,,
-2577,770,2022-06-13 22:18:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,,,
-2817,768,2022-06-13 22:21:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,,,
-3166,772,2022-06-13 22:17:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,,,
-3331,769,2022-06-13 22:19:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,,,
-3480,773,2022-06-13 22:15:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,,,
-3708,765,2022-06-13 22:26:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,,,
+1926,766,2022-06-13 22:22:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,40213.0,,
+2121,774,2022-06-13 22:09:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,40213.0,,
+2239,1050,2022-06-02 21:56:00,Employment,Job Search/Placement,Organization 356,Jefferson County,KY,40213.0,,
+2372,771,2022-06-13 22:18:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,40213.0,,
+2379,767,2022-06-13 22:21:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,40213.0,,
+2487,775,2022-06-13 22:08:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,40213.0,,
+2577,770,2022-06-13 22:18:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,40213.0,,
+2817,768,2022-06-13 22:21:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,40213.0,,
+3166,772,2022-06-13 22:17:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,40213.0,,
+3331,769,2022-06-13 22:19:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,40213.0,,
+3480,773,2022-06-13 22:15:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,40213.0,,
+3708,765,2022-06-13 22:26:00,Social Enrichment,Youth Development,Organization 356,Jefferson County,KY,40213.0,,
 1600,960,2022-06-07 13:55:00,Utilities,Utility Bill Payment Assistance,Organization 368,Jefferson County,KY,40211,Undisclosed,29.0
 1749,263,2022-06-15 18:45:00,Utilities,Utility Bill Payment Assistance,Organization 368,Jefferson County,KY,40211,Male,52.0
 2612,958,2022-06-07 13:59:00,Income Support,Emergency/One-time Financial Assistance,Organization 368,Jefferson County,KY,40211,Undisclosed,33.0
 3146,959,2022-06-07 13:56:00,Income Support,Emergency/One-time Financial Assistance,Organization 368,Jefferson County,KY,40210,Undisclosed,38.0
 2249,312,2022-06-09 18:40:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 37,Jefferson County,KY,40203,Male,39.0
-2302,746,2022-06-08 14:59:00,Food Assistance,Emergency Food,Organization 37,Jefferson County,KY,,Female,49.0
+2302,746,2022-06-08 14:59:00,Food Assistance,Emergency Food,Organization 37,Jefferson County,KY,40203.0,Female,49.0
 2358,9,2022-06-29 15:02:00,Food Assistance,Emergency Food,Organization 37,Jefferson County,KY,40202,Undisclosed,56.0
 2532,172,2022-06-29 15:28:00,Food Assistance,Emergency Food,Organization 37,Jefferson County,KY,40210,Male,65.0
 2682,312,2022-06-22 16:56:00,Food Assistance,Emergency Food,Organization 37,Jefferson County,KY,40203,Male,39.0
@@ -3470,7 +3470,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3461,763,2022-06-14 12:11:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 406,Floyd County,IN,47119,Female,48.0
 3591,283,2022-06-28 14:33:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 406,Floyd County,IN,47150,Female,36.0
 1681,973,2022-05-19 16:17:00,Mental/Behavioral Health,Youth Mental Health Services,Organization 418,Clark County,IN,47129,Male,17.0
-3435,354,2022-05-23 14:56:00,,,Organization 421,Floyd County,IN,,Male,0.0
+3435,354,2022-05-23 14:56:00,,,Organization 421,Floyd County,IN,47150.0,Male,0.0
 1508,357,2022-02-22 15:05:00,,,Organization 422,Floyd County,IN,47150,Female,36.0
 1633,314,2022-06-28 12:02:00,Mental/Behavioral Health,Individual Counseling,Organization 424,Jackson County,IN,47274,Female,34.0
 1633,314,2022-06-27 18:13:00,Mental/Behavioral Health,Individual Counseling,Organization 424,Jackson County,IN,47274,Female,34.0
@@ -3482,7 +3482,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 1785,594,2022-06-03 13:14:00,Substance Use,Substance Use Treatment,Organization 424,Harrison County,IN,47161,Male,55.0
 1791,32,2022-06-24 14:41:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 424,Clark County,IN,47172,Male,59.0
 1791,32,2022-06-24 14:41:00,,,Organization 424,Clark County,IN,47172,Male,59.0
-1793,820,2022-06-12 16:03:00,Food Assistance,SNAP/WIC/Other Nutrition Benefits,Organization 424,Clark County,IN,,,
+1793,820,2022-06-12 16:03:00,Food Assistance,SNAP/WIC/Other Nutrition Benefits,Organization 424,Clark County,IN,47129.0,,
 1812,32,2022-06-24 14:41:00,Income Support,Emergency/One-time Financial Assistance,Organization 424,Clark County,IN,47172,Male,59.0
 1812,32,2022-06-24 14:41:00,,,Organization 424,Clark County,IN,47172,Male,59.0
 1835,632,2022-06-13 13:46:00,Food Assistance,Emergency Food,Organization 424,Clark County,IN,47130,Female,8.0
@@ -3490,37 +3490,37 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 1845,341,2022-06-16 20:07:00,Utilities,Utility Bill Payment Assistance,Organization 424,Clark County,IN,47130,Male,17.0
 1956,341,2022-06-16 20:07:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 424,Clark County,IN,47130,Male,17.0
 1956,341,2022-06-16 20:07:00,,,Organization 424,Clark County,IN,47130,Male,17.0
-2032,821,2022-06-10 20:37:00,Housing & Shelter,Permanent Housing,Organization 424,Clark County,IN,,,
+2032,821,2022-06-10 20:37:00,Housing & Shelter,Permanent Housing,Organization 424,Clark County,IN,47129.0,,
 2106,32,2022-06-24 14:41:00,Food Assistance,Emergency Food,Organization 424,Clark County,IN,47172,Male,59.0
-2183,616,2022-06-17 18:18:00,Individual & Family Support,Environmental Modifications/Accessibility,Organization 424,Clark County,IN,,,
+2183,616,2022-06-17 18:18:00,Individual & Family Support,Environmental Modifications/Accessibility,Organization 424,Clark County,IN,47129.0,,
 2238,306,2022-06-28 12:47:00,Substance Use,Substance Use Counseling,Organization 424,Harrison County,IN,47117,Female,35.0
 2238,306,2022-06-27 18:11:00,Substance Use,Substance Use Counseling,Organization 424,Harrison County,IN,47117,Female,35.0
 2238,306,2022-06-03 16:52:00,Substance Use,Substance Use Counseling,Organization 424,Harrison County,IN,47117,Female,35.0
 2238,306,2022-06-03 13:52:00,Substance Use,Substance Use Counseling,Organization 424,Harrison County,IN,47117,Female,35.0
-2323,784,2022-06-13 20:39:00,Food Assistance,SNAP/WIC/Other Nutrition Benefits,Organization 424,Clark County,IN,,,
-2371,590,2022-06-21 12:35:00,Housing & Shelter,Transitional Housing,Organization 424,Clark County,IN,,,
+2323,784,2022-06-13 20:39:00,Food Assistance,SNAP/WIC/Other Nutrition Benefits,Organization 424,Clark County,IN,47129.0,,
+2371,590,2022-06-21 12:35:00,Housing & Shelter,Transitional Housing,Organization 424,Clark County,IN,47129.0,,
 2468,720,2022-06-10 14:19:00,Individual & Family Support,Caregiving Services,Organization 424,Harrison County,IN,47112,Female,70.0
 2468,720,2022-06-10 14:19:00,,,Organization 424,Harrison County,IN,47112,Female,70.0
 2468,720,2022-06-10 13:50:00,,,Organization 424,Harrison County,IN,47112,Female,70.0
 2468,720,2022-06-10 12:00:00,,,Organization 424,Harrison County,IN,47112,Female,70.0
 2494,341,2022-06-16 20:07:00,Utilities,Home Energy/Utilities Benefits,Organization 424,Clark County,IN,47130,Male,17.0
 2494,341,2022-06-16 20:07:00,,,Organization 424,Clark County,IN,47130,Male,17.0
-2517,517,2022-06-22 18:42:00,Housing & Shelter,Transitional Housing,Organization 424,Clark County,IN,,,
-2531,821,2022-06-10 20:37:00,Housing & Shelter,Housing Applications/Recertification,Organization 424,Clark County,IN,,,
-2539,820,2022-06-12 16:03:00,Employment,Career Skills Development,Organization 424,Clark County,IN,,,
-2614,590,2022-06-21 12:35:00,Benefits Navigation,Health Insurance/Benefits,Organization 424,Clark County,IN,,,
+2517,517,2022-06-22 18:42:00,Housing & Shelter,Transitional Housing,Organization 424,Clark County,IN,47129.0,,
+2531,821,2022-06-10 20:37:00,Housing & Shelter,Housing Applications/Recertification,Organization 424,Clark County,IN,47129.0,,
+2539,820,2022-06-12 16:03:00,Employment,Career Skills Development,Organization 424,Clark County,IN,47129.0,,
+2614,590,2022-06-21 12:35:00,Benefits Navigation,Health Insurance/Benefits,Organization 424,Clark County,IN,47129.0,,
 2738,632,2022-06-13 13:46:00,Food Assistance,Emergency Food,Organization 424,Clark County,IN,47130,Female,8.0
 2738,632,2022-06-13 13:46:00,,,Organization 424,Clark County,IN,47130,Female,8.0
 2749,369,2022-06-27 14:46:00,Food Assistance,Emergency Food,Organization 424,Floyd County,IN,47150,Female,47.0
-2778,590,2022-06-21 12:35:00,Housing & Shelter,Housing Applications/Recertification,Organization 424,Clark County,IN,,,
+2778,590,2022-06-21 12:35:00,Housing & Shelter,Housing Applications/Recertification,Organization 424,Clark County,IN,47129.0,,
 2840,720,2022-06-10 14:19:00,Individual & Family Support,Caregiving Services,Organization 424,Harrison County,IN,47112,Female,70.0
 2840,720,2022-06-10 14:19:00,,,Organization 424,Harrison County,IN,47112,Female,70.0
-2871,821,2022-06-10 20:37:00,Individual & Family Support,Social Service Case Management,Organization 424,Clark County,IN,,,
-2986,590,2022-06-21 12:35:00,Benefits Navigation,Health Insurance/Benefits,Organization 424,Clark County,IN,,,
-2988,820,2022-06-12 16:03:00,Education,Degrees/Certifications,Organization 424,Clark County,IN,,,
+2871,821,2022-06-10 20:37:00,Individual & Family Support,Social Service Case Management,Organization 424,Clark County,IN,47129.0,,
+2986,590,2022-06-21 12:35:00,Benefits Navigation,Health Insurance/Benefits,Organization 424,Clark County,IN,47129.0,,
+2988,820,2022-06-12 16:03:00,Education,Degrees/Certifications,Organization 424,Clark County,IN,47129.0,,
 3007,32,2022-06-24 14:41:00,,,Organization 424,Clark County,IN,47172,Male,59.0
-3088,784,2022-06-13 20:27:00,Education,Early Childhood Education,Organization 424,Clark County,IN,,,
-3102,821,2022-06-10 20:37:00,Housing & Shelter,Permanent Housing,Organization 424,Clark County,IN,,,
+3088,784,2022-06-13 20:27:00,Education,Early Childhood Education,Organization 424,Clark County,IN,47129.0,,
+3102,821,2022-06-10 20:37:00,Housing & Shelter,Permanent Housing,Organization 424,Clark County,IN,47129.0,,
 3292,32,2022-06-24 14:41:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 424,Clark County,IN,47172,Male,59.0
 3380,938,2022-06-03 14:57:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 424,Clark County,IN,47130,Female,64.0
 3380,938,2022-06-03 13:21:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 424,Clark County,IN,47130,Female,64.0
@@ -3528,7 +3528,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3390,594,2022-06-21 11:08:00,Substance Use,Substance Use Recovery Support,Organization 424,Harrison County,IN,47161,Male,55.0
 3390,594,2022-06-08 14:39:00,Substance Use,Substance Use Recovery Support,Organization 424,Harrison County,IN,47161,Male,55.0
 3390,594,2022-06-08 13:35:00,Substance Use,Substance Use Recovery Support,Organization 424,Harrison County,IN,47161,Male,55.0
-3393,821,2022-06-10 20:37:00,Benefits Navigation,Health Insurance/Benefits,Organization 424,Clark County,IN,,,
+3393,821,2022-06-10 20:37:00,Benefits Navigation,Health Insurance/Benefits,Organization 424,Clark County,IN,47129.0,,
 3460,341,2022-06-16 20:07:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 424,Clark County,IN,47130,Male,17.0
 3554,314,2022-06-28 12:02:00,Mental/Behavioral Health,Psychiatric Services,Organization 424,Jackson County,IN,47274,Female,34.0
 3554,314,2022-06-28 12:00:00,Mental/Behavioral Health,Individual Counseling,Organization 424,Jackson County,IN,47274,Female,34.0
@@ -3542,7 +3542,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 3557,594,2022-06-21 11:08:00,Substance Use,Substance Use Recovery Support,Organization 424,Harrison County,IN,47161,Male,55.0
 3557,594,2022-06-08 14:39:00,Substance Use,Substance Use Recovery Support,Organization 424,Harrison County,IN,47161,Male,55.0
 3557,594,2022-06-08 13:35:00,Substance Use,Substance Use Recovery Support,Organization 424,Harrison County,IN,47161,Male,55.0
-3674,821,2022-06-10 20:37:00,Housing & Shelter,Permanent Housing,Organization 424,Clark County,IN,,,
+3674,821,2022-06-10 20:37:00,Housing & Shelter,Permanent Housing,Organization 424,Clark County,IN,47129.0,,
 2097,614,2022-06-17 16:23:00,,,Organization 428,Floyd County,IN,47150,Male,26.0
 2115,614,2022-06-17 16:23:00,Housing & Shelter,Emergency Housing,Organization 428,Floyd County,IN,47150,Male,26.0
 1851,544,2022-06-21 14:14:00,Education,Degrees/Certifications,Organization 429,Clark County,IN,47130,Male,40.0
@@ -3613,12 +3613,12 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 2309,247,2022-06-16 18:09:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 445,Clark County,IN,47130,Female,54.0
 2380,641,2022-05-16 20:02:00,,,Organization 445,Clark County,IN,47130,Female,28.0
 2570,733,2022-06-14 18:49:00,Education,Educational Support Services,Organization 445,Floyd County,IN,47150,Male,29.0
-2609,1026,2022-06-03 16:23:00,Utilities,Home Energy/Utilities Benefits,Organization 445,Clark County,IN,,,
+2609,1026,2022-06-03 16:23:00,Utilities,Home Energy/Utilities Benefits,Organization 445,Clark County,IN,47130.0,,
 2654,247,2022-06-13 18:44:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 445,Clark County,IN,47130,Female,54.0
 2654,247,2022-06-13 18:44:00,,,Organization 445,Clark County,IN,47130,Female,54.0
 2674,247,2022-01-19 20:39:00,Utilities,Utility Bill Payment Assistance,Organization 445,Clark County,IN,47130,Female,54.0
 3074,535,2022-06-22 14:18:00,Housing & Shelter,Emergency Housing,Organization 445,Clark County,IN,47129,Male,44.0
-3105,1026,2022-06-03 16:24:00,Food Assistance,Emergency Food,Organization 445,Clark County,IN,,,
+3105,1026,2022-06-03 16:24:00,Food Assistance,Emergency Food,Organization 445,Clark County,IN,47130.0,,
 3430,461,2022-06-16 14:35:00,Utilities,Utility Bill Payment Assistance,Organization 445,Clark County,IN,47130,Male,53.0
 3430,461,2022-06-16 14:35:00,Utilities,Utility Bill Payment Assistance,Organization 445,Clark County,IN,47130,Male,53.0
 3461,763,2022-06-13 18:49:00,Utilities,Utility Bill Payment Assistance,Organization 445,Floyd County,IN,47119,Female,48.0
@@ -3872,7 +3872,7 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 2644,145,2022-06-27 17:56:00,Benefits Navigation,Health Insurance/Benefits,Organization 60,Jefferson County,KY,40242,Male,24.0
 2824,145,2022-06-27 17:59:00,Employment,Job Search/Placement,Organization 60,Jefferson County,KY,40242,Male,24.0
 3556,466,2021-11-10 14:13:00,Housing & Shelter,Rent/Mortgage Payment Assistance,Organization 60,Jefferson County,KY,40212,Male,59.0
-2831,997,2022-06-06 14:16:00,Employment,Job Search/Placement,Organization 60,Jefferson County,KY,,,
+2831,997,2022-06-06 14:16:00,Employment,Job Search/Placement,Organization 60,Jefferson County,KY,40203.0,,
 3249,996,2022-06-06 14:39:00,Individual & Family Support,Peer Support,Organization 62,Maricopa County,AZ,85035,Undisclosed,34.0
 3308,995,2022-06-06 14:40:00,Individual & Family Support,Peer Support,Organization 62,Riverside County,CA,,Undisclosed,36.0
 3429,992,2022-06-06 14:54:00,Individual & Family Support,Peer Support,Organization 62,Los Angeles County,CA,91605,Undisclosed,41.0
@@ -3882,8 +3882,8 @@ ServiceEpisodeID,ClientID,Created At,Service Type,Service Subtype,Originating Or
 2966,300,2022-06-28 12:58:00,Education,Computer/Technology Classes,Organization 65,Jefferson County,KY,40223,Undisclosed,61.0
 2979,789,2022-06-13 18:52:00,Education,Computer/Technology Classes,Organization 65,Jefferson County,KY,40245,Undisclosed,54.0
 2782,7,2022-06-30 22:02:00,Money Management,Financial Counseling,Organization 7,Jefferson County,KY,40207,Female,36.0
-2838,1022,2022-06-03 16:53:00,Money Management,Financial Counseling,Organization 7,Jefferson County,KY,,,
-3416,721,2022-06-15 12:58:00,Money Management,Financial Counseling,Organization 7,Jefferson County,KY,,,
+2838,1022,2022-06-03 16:53:00,Money Management,Financial Counseling,Organization 7,Jefferson County,KY,40299.0,,
+3416,721,2022-06-15 12:58:00,Money Management,Financial Counseling,Organization 7,Jefferson County,KY,40299.0,,
 1546,253,2022-06-28 17:46:00,Clothing & Household Goods,,Organization 75,Jefferson County,KY,40214,Female,27.0
 1914,918,2022-06-07 18:25:00,Clothing & Household Goods,,Organization 75,Jefferson County,KY,40210,Female,55.0
 2164,295,2022-06-20 17:21:00,Food Assistance,Emergency Food,Organization 76,Jefferson County,KY,40223,Female,44.0
