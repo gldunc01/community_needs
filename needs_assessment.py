@@ -34,7 +34,10 @@ ser.to_csv(r'ser_cleaned.csv', index = False)
 ser_cleaned = pd.read_csv('ser_cleaned.csv')
 
 #Finding the service types with the most service episodes(aka touchpoints)
-print(ser_cleaned['Service Type'].value_counts())
+
+ser_cleaned_by_top_need = ser_cleaned.groupby('Service Type', as_index=False,)['ServiceEpisodeID'].nunique().sort_values(['ServiceEpisodeID'])
+
+print(ser_cleaned_by_top_need)
 
 #Finding which client needed the most help
 print(ser_cleaned['ClientID'].value_counts())
@@ -57,10 +60,18 @@ unique_service_epi = len(pd.unique(ser_cleaned['ServiceEpisodeID']))
 ser_per_client = round(unique_service_epi/unique_clients)
 print("There are", unique_service_epi, "unique service episodes, with an average of" , ser_per_client, "service episodes per client") 
 
-#Percentage of unique males
+#Percentage of clients by gender
 ser_unique_genders = ser_unique_clients['Gender'].value_counts()
-print((round((ser_unique_genders['Male']/unique_clients)*100)), "percent of the clients are male")
-print((round((ser_unique_genders['Female']/unique_clients)*100)), "percent of the clients are female. The remaining are undisclosed")
+print(ser_unique_genders)
+ser_unique_genders_male = ser_unique_genders['Male']
+percent_male = round((ser_unique_genders_male/unique_clients)*100)
+print((round((ser_unique_genders_male/unique_clients)*100)), "percent of the clients are male")
+ser_unique_genders_female = ser_unique_genders['Female']
+percent_female = round((ser_unique_genders_female/unique_clients)*100)
+print((round((ser_unique_genders_female/unique_clients)*100)), "percent of the clients are female")
+ser_unique_genders_other = unique_clients - ser_unique_genders_female - ser_unique_genders_male
+percent_other = round((ser_unique_genders_other/unique_clients)*100)
+print((round((ser_unique_genders_other/unique_clients)*100)), "percent of the clients are other")
 
 #Percentage of clients for Jefferson County
 ser_counties = ser_unique_clients['Address 1 County'].value_counts()
@@ -70,5 +81,21 @@ print((round((ser_counties['Jefferson County']/unique_clients)*100)), "percent o
 highest_zipcode = ser_unique_clients['Address 1 Postal Code'].value_counts()
 print(highest_zipcode)
 
+#Plotting the highest needs by service episode volume
+
+plt.style.use('seaborn-pastel')
+plt.figure(figsize= (12,6))
+plt.barh('Service Type', 'ServiceEpisodeID', data = ser_cleaned_by_top_need)
+plt.ylabel('Service Type')
+plt.xlabel('Number of Service Episodes')
+plt.title('Top Community Needs')
+plt.tight_layout()
+plt.show()
+
+#Plotting the gender makeup of the clients
+plt.style.use('seaborn-pastel')
+pie_chart_data = [percent_female, percent_male, percent_other]
+plt.pie(pie_chart_data, labels = ['Female', 'Male', 'Other'], autopct='%1.1f%%')
+plt.show()
 
 
