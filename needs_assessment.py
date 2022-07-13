@@ -50,7 +50,7 @@ print("There are", unique_clients, "unique clients")
 ser_unique_clients = ser_cleaned.drop_duplicates(subset = ['ClientID', 'Age'], keep='first')
 
 #Calculating the average age of the unique clients
-print("The average age of a clients is", round(ser_unique_clients.Age.mean()), "years old")
+print("The average age of a client is", round(ser_unique_clients.Age.mean()), "years old")
 
 #Average number of touchpoints(service episodes) per unique client
 unique_service_epi = len(pd.unique(ser_cleaned['ServiceEpisodeID']))
@@ -60,12 +60,15 @@ print("There are", unique_service_epi, "unique service episodes, with an average
 #Percentage of clients by gender
 ser_unique_genders = ser_unique_clients['Gender'].value_counts()
 print(ser_unique_genders)
+
 ser_unique_genders_male = ser_unique_genders['Male']
 percent_male = round((ser_unique_genders_male/unique_clients)*100)
 print((round((ser_unique_genders_male/unique_clients)*100)), "percent of the clients are male")
+
 ser_unique_genders_female = ser_unique_genders['Female']
 percent_female = round((ser_unique_genders_female/unique_clients)*100)
 print((round((ser_unique_genders_female/unique_clients)*100)), "percent of the clients are female")
+
 ser_unique_genders_other = unique_clients - ser_unique_genders_female - ser_unique_genders_male
 percent_other = round((ser_unique_genders_other/unique_clients)*100)
 print((round((ser_unique_genders_other/unique_clients)*100)), "percent of the clients are other")
