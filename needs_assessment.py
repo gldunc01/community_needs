@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 
 
-#Reading in service episodes raw
+#Reading in service episodes raw csv using pandas and changing some datatypes
 ser = pd.read_csv('service_episode_raw.csv')
 ser[['ClientID', 'ServiceEpisodeID']] = ser[['ClientID', 'ServiceEpisodeID']].astype(str)
 ser['Created At'] =  pd.to_datetime(ser['Created At'], format='%m/%d/%Y %H:%M')
@@ -25,7 +25,6 @@ print(ser['Address 1 Postal Code'][long_zip_codes].unique())
 ser['Address 1 Postal Code'] = ser['Address 1 Postal Code'].str.slice(0, 5)
 
 #Replacing all NaN zipcode values in service episode raw by looking up the organization zipcode from orgs_lookup_table
-
 ser['Address 1 Postal Code']=np.where(ser['Address 1 Postal Code'].isnull(),ser['Originating Organization'].map(orgs_lookup_table.set_index('OrganizationID').ZipCode),ser['Address 1 Postal Code'])
 
 #Creating new csv in project folder of cleaned service episode raw data
@@ -34,7 +33,6 @@ ser.to_csv(r'ser_cleaned.csv', index = False)
 ser_cleaned = pd.read_csv('ser_cleaned.csv')
 
 #Finding the service types with the most service episodes(aka touchpoints)
-
 ser_cleaned_by_top_need = ser_cleaned.groupby('Service Type', as_index=False,)['ServiceEpisodeID'].nunique().sort_values(['ServiceEpisodeID'])
 
 print(ser_cleaned_by_top_need)
@@ -55,7 +53,6 @@ ser_unique_clients = ser_cleaned.drop_duplicates(subset = ['ClientID', 'Age'], k
 print("The average age of a clients is", round(ser_unique_clients.Age.mean()), "years old")
 
 #Average number of touchpoints(service episodes) per unique client
-
 unique_service_epi = len(pd.unique(ser_cleaned['ServiceEpisodeID']))
 ser_per_client = round(unique_service_epi/unique_clients)
 print("There are", unique_service_epi, "unique service episodes, with an average of" , ser_per_client, "service episodes per client") 
@@ -82,7 +79,6 @@ highest_zipcode = ser_unique_clients['Address 1 Postal Code'].value_counts()
 print(highest_zipcode)
 
 #Plotting the highest needs by service episode volume
-
 plt.style.use('seaborn-pastel')
 plt.figure(figsize= (12,6))
 plt.barh('Service Type', 'ServiceEpisodeID', data = ser_cleaned_by_top_need)
