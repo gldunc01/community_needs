@@ -11,7 +11,6 @@ If you can't tell, this is a passion project for me. By taking community level d
 <br/>
 
 ## **Requirements Met**
-*************************
 <br/>
 
 This project incorporates the following Code Louisville requirements:
@@ -24,10 +23,10 @@ This project incorporates the following Code Louisville requirements:
 The final plots show what the top needs are in the community for June 2022 and what the gender breakdown is for the clients served.
 <br/>
 <br/>
-Plot 1:
+**Plot 1:**
 <br/>
 ![Top Needs](top_needs.png)
 <br/>
-Plot 2:
+**Plot 2:**
 <br/>
 ![Genders](genders.png)
