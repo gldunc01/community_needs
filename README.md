@@ -20,7 +20,7 @@ This project incorporates the following Code Louisville requirements:
 4. Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library.
 5. Write markdown cells in Jupyter explaining your thought process and code.
 
-The final plots show what the top needs are in the community for June 2022 and what the gender breakdown is for the clients served.
+The final plots show what the top needs are in the community for June 2022 and what the gender breakdown is for the clients served. From these plots we see that Transportation and Housing were the top 2 needs of the clients and that the majority of those clients were female.
 <br/>
 <br/>
 **Plot 1:**
