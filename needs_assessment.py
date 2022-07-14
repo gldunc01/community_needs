@@ -78,6 +78,7 @@ ser_counties = ser_unique_clients['Address 1 County'].value_counts()
 print((round((ser_counties['Jefferson County']/unique_clients)*100)), "percent of the clients come from Jefferson County")
 
 #Zipcode with the highest count of clients
+ser_unique_clients = ser_unique_clients.astype({'Address 1 Postal Code': 'Int32'})
 highest_zipcode = ser_unique_clients['Address 1 Postal Code'].value_counts()
 print(highest_zipcode)
 
