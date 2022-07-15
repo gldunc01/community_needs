@@ -30,6 +30,7 @@ If you can't tell, this is a passion project for me. By taking community level d
 5. From the browser window open "needs_assessment.ipynb", run this to run the program.
 <br/>
 <br/>
+
 ## **Requirements Met**
 <br/>
 
@@ -37,7 +38,7 @@ This project incorporates the following Code Louisville requirements:
 1. Read in data from a local csv, excel file, json, or any other file type.
 2. Use built-in pandas or numpy functions to clean the data.
 3. Use at least 5 different built-in Python functions to find out something about your data. I also created some calculations with Pandas.
-4. Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library.
+4. Make 2 plots with matplotlib, seaborn, or any other kind of visualization library.
 5. Write markdown cells in Jupyter explaining your thought process and code.
 
 The final plots show what the top needs are in the community for June 2022 and what the gender breakdown is for the clients served. From these plots we see that Transportation and Housing were the top 2 needs of the clients and that the majority of those clients were female.
