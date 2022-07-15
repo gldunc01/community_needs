@@ -7,7 +7,7 @@
 ![Margaret Mead Quote](quote.png)
 <br/>
 
-If you can't tell, this is a passion project for me. By taking community level deidentified data gathered from a technology platform called Unite US, I am able to analyze the needs of the community. I will use this baseline descriptive analysis to edge closer to forecasting, and predictive analysis and then on to prescriptive analysis. This project is the descriptive leg of the analysis, where we understand what needs are present in the community. The end goal for the remaining legs of the project are to predict the needs of the community at certain times of the year. This will allow us to better allocate, and time, funding given to organizations that serve those needs within the community.  
+If you can't tell, this is a passion project for me. By taking community level deidentified data gathered from a technology platform called Unite US, I am able to analyze the needs of the community. I will use this baseline descriptive analysis to edge closer to forecasting, and predictive analysis and then on to prescriptive analysis. This project is the descriptive leg of the analysis, where we understand what needs are present in the community. The end goal for the remaining legs of the project are to predict the needs of the community at certain times of the year. This will allow us to better allocate, and time funding given to organizations that serve those needs within the community.  
 <br/>
 
 ## **Getting the Program to Run**
