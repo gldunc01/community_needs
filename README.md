@@ -13,9 +13,12 @@ If you can't tell, this is a passion project for me. By taking community level d
 ## **Getting the Program to Run**
 <br/>
 
-1. Make sure to have a version of python3 installed on your computer, visit [Python.org](https://www.python.org/downloads/) and download python for your machine.
-2. After you have downloaded python, clone the repository(repo) from github.
-2. Once the repo has been cloned, go to your command terminal, navigate to the directory where you stored the repo and from within that directory pip install the requirements.txt file. This will make sure you have the necessary packages to run the program.
+1. Make sure to have a version of Python3 installed on your computer, visit [Python.org](https://www.python.org/downloads/) and download Python for your machine.
+2. After you have downloaded Python, clone the repository(repo) from github.
+3. Once the repo has been cloned, go to your command terminal, navigate to the directory where you stored the repo and from within that directory pip install the requirements.txt file by running "pip install -r requirements.txt". This will make sure you have the necessary packages to run the program. For this program, we will be using these libraries:
+- Numpy
+- Pandas
+- Matplotlib Pyplot
 4. Now that you have installed the packages, open your IDE (I use VSCode), open the repo folder and run the needs_assessment.py program.
 <br/>
 <br/>
