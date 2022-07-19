@@ -19,7 +19,7 @@ If you can't tell, this is a passion project for me. By taking community level d
 - Numpy
 - Pandas
 - Matplotlib Pyplot
-4. Now that you have installed the packages, open your IDE (I use VSCode), open the repo folder and run the needs_assessment.py program.
+4. Now that you have installed the packages and you are in the directory, you can run the program directly from the command terminal by running "needs_assessment.py" or you can open your favorite IDE (I use VSCode), open the repo folder and run the needs_assessment.py program.
 <br/>
 <br/>
 
