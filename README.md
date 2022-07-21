@@ -13,7 +13,7 @@ This project focuses on the needs of the Louisville, KY community for June 2022.
 ## **Getting the Program to Run**
 <br/>
 
-1. Make sure to have a version of Python3 installed on your computer, visit [Python.org](https://www.python.org/downloads/) and download Python for your machine.
+1. Make sure to have a version of Python3 installed on your computer, visit [Python.org](https://www.python.org/downloads/) and download Python for your machine. This project was ran using Python 3.10.1.
 2. After you have downloaded Python, clone the repository(repo) from github.
 3. Within your cloned repository, it is best practice to setup a virtual environment(venv). This allows you to install any project requirements without interfering with what you currently have installed. To set up the venv, from within the cloned repo folder navigate to the file path line. Here you will type "cmd" into the file path to bring up the command terminal. From there run, "py -m venv env". This will create a folder named "env" within your repo folder. This will house the python venv. Once you have that created, you will need to activate it. Run 
 ".\env\Scripts\activate" from the command terminal. You will know your venv is active when you see (env) ahead of your directory path. Now your venv is ready to use.
