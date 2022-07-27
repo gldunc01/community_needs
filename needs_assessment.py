@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 #Reading in service episodes raw csv using pandas and changing some datatypes
 ser = pd.read_csv('service_episode_raw.csv')
 ser[['ClientID', 'ServiceEpisodeID']] = ser[['ClientID', 'ServiceEpisodeID']].astype(str)
-ser['Created At'] =  pd.to_datetime(ser['Created At'], format='%m/%d/%Y %H:%M')
+ser['Created At'] =  pd.to_datetime(ser['Created At'], format='%m/%d/%Y %H:%M').dt.date
 
 
 #Reading in the lookup table of organizations and their county, state and zipcodes
